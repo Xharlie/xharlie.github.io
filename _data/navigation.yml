@@ -1,0 +1,22 @@
+# site navigation links
+
+- title: About
+  url: /"/"/
+
+# - title: Research
+#   url: /research/
+
+- title: Publications
+  url: /publications/
+
+- title: Talks
+  url: /talks/
+
+# - title: Projects
+#  url: /projects/
+
+- title: Teaching
+  url: /teaching/
+
+- title: Posts
+  url: /posts/
