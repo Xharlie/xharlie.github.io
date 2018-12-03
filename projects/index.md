@@ -1,21 +1,78 @@
 ---
 layout: page
 title: Projects
-excerpt: "Links to different projects"
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+excerpt: "A page describing my research (interests)"
+tags: [Jekyll, theme, responsive, blog, template]
 image:
-   feature: amsterdam-header2.jpg
+
 ---
 
 {% include _toc.html %}
 
-# Spiking Networks with Izhikevich neurons
+<style>
+   #columns {
+        float: left;
+   }
 
-Description of the project will follow soon.
+   #columns .half {
+       width: 50%;
+   }
 
-[Go to project page](http://dieuwkehupkes.github.io/Spiking-Network)
+   #columns .third {
+       width: 33%;
+   }
+</style>
 
-# Part-of-speech tagging of historical Dutch
+## Research Interests
 
-Description of the project will follow soon
+I am interested in many different aspects of Computer Vision:
+
+- Large-scale representation learning of 3D Point Cloud
+- Instance Segmentation and Object Detection of 3D Point Cloud
+- Generative model in video (Frame Prediction and Interpolation).
+- Representation learning and feature disentanglement
+- Statistical Learning
+
+
+## Current Projects
+
+### 3D Deformation
+Currently I start to involve in a new project funded by Adobe Research, designing deformation model to transform a style of the source 3D mesh to a target 3D model/2D image while still holding its topological structure.
+
+## Previous Projects
+
+### Stochastic Dynamics for Video Infilling \[[<font color="brown">project site</font>](../projects/project_sites/SDVI/video_results.html){:target="blank"}\]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We introduce a stochastic generation framework (SDVI) to infill long intervals in video sequences. SDVI consists of two parts: (1) a bi-directional constraint propagation
+to guarantee the spatial-temporal coherency among frames, (2) a stochastic sampling process to generate dynamics from the inferred distributions. Experimental results show that SDVI can generate clear and varied sequences.
+
+Motivation |   Model           
+:-------------------------:|:-------------------------:
+![](../images/stochastic_motivation.jpg)  |  ![](../images/stochastic_training.jpg)
+
+<br>
+
+### Variation Disentanglement Siamese Net \[[<font color="brown">project site</font>](https://github.com/Xharlie/Project-Site-Variation-Disentanglement-Siamese-Net){:target="blank"}\]  \[[<font color="brown">code</font>](https://github.com/Xharlie/Variation-Disentanglement-Siamese-Net){:target="blank"}\]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A project to study unsupervised disintanglement of image representation: Supervised by Prof. Shih-Fu Chang:
+-	Designed a semi-supervised network that disentangles the label-related and variance representation of a manifold.
+-   Introduced a Shannon-Entropy based adversarial training counterpart to help the disentanglement, expelling any label-related information from the variance representation.
+-   Setting recognition and reconstruction task to keep the richness in the feature embedding.
+-	Implemented the proposed network and conducted the experiment on both MNIST and CASIA Face dataset. Conducted disentanglement, reconstruction, cross-stich evaluation and TSNE Clustering on learnt representation.
+
+Model            |  Feature space interpolation  | Feature space clustering
+:-------------------------:|:-------------------------:|:-------------------------:
+![](../images/vdsn_model.png)  |  ![](../images/vdsn_interpolation.png){:class="third" id="columns"} | ![](../images/vdsn_clustering.png)
+
+<br>
+
+### Neural Gesture \[[<font color="brown">code</font>](https://github.com/Xharlie/Eye-movement-similarity-clustering){:target="blank"}\]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A NSF project leaded by Prof. John Kender, studying relationship between gestures of speakers and audiences’ attention. I have: 
+-	Design and implemented distance matching algorithm based on “Time Warp Edit Distance” between every pair of eye tracking trajectories to get a eye-tracking distance matrix.
+-	Fine-tuned the hyper-parameter of TWED based algorithm by comparing eye movement trails.
+-	Clustered subjects based on “fast multi-scale detection of relevant communities” by using the distance matrix.
+
+
+Attention fixation            |  Eye trajectory and co-relation  
+:-------------------------:|:-------------------------:|:-------------------------:
+![](../images/neural_gesture_fixation.png){:width="80%"}  |  ![](../images/neural_gesture_trajectory.png){::width="100%"} 

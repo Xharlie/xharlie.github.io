@@ -3,20 +3,14 @@
 - title: About
   url: /"/"/
 
-# - title: Research
-#   url: /research/
+- title: Projects
+  url: /projects/
 
 - title: Publications
   url: /publications/
 
-- title: Talks
-  url: /talks/
-
-# - title: Projects
-#  url: /projects/
-
 - title: Teaching
   url: /teaching/
 
-- title: Posts
-  url: /posts/
+#- title: CV
+#  url: /cv/

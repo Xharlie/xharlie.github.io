@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Dieuwke Hupkes
-  avatar: dieuwk.jpg
+  name: Qiangeng(Charlie) Xu
+  avatar: avatar_large.jpeg
   # bio: "Describe your self."
-  email: d.hupkes@uva.nl
+  email: qiangenx@usc.edu
   disqus-shortname: 
   google:
     plus: #username
@@ -38,10 +38,10 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: dieuwkehupkes
+  github: xharlie
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: dieuwke-hupkes/84/656/707
-  instagram: duo_polenotti
+  linkedin: qiangeng-charlie-xu-6789b857
+  instagram: youlikecharlieorwhat
   xing: #username
   lastfm: #username
   tumblr: #username
