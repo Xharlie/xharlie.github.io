@@ -2,63 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da34f5e3-df7f-4afa-9635-fc63d32452de" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
       <change beforePath="$PROJECT_DIR$/_includes/_author-bio.html" afterPath="$PROJECT_DIR$/_includes/_author-bio.html" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/main.css" afterPath="$PROJECT_DIR$/_site/assets/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/_site/cv/index.html" afterPath="$PROJECT_DIR$/_site/cv/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change beforePath="$PROJECT_DIR$/_site/images/DHupkes.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/images/dieuwk.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/images/paragraph-indent.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/images/paragraph-no-indent.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/posts/index.html" afterPath="$PROJECT_DIR$/_site/posts/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/projects/index.html" afterPath="$PROJECT_DIR$/_site/projects/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/publications/Evolang_bib.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/publications/LREC_bib.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/publications/index.html" afterPath="$PROJECT_DIR$/_site/publications/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/publications/nips_bib.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/research/LREC2016.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/research/\" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/research/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/research/nips2016.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/research/nips2016_poster.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/research/thesis.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="$PROJECT_DIR$/_site/sitemap.xml" />
-      <change beforePath="$PROJECT_DIR$/_site/teaching/index.html" afterPath="$PROJECT_DIR$/_site/teaching/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/theme-setup/index.html" afterPath="$PROJECT_DIR$/_site/theme-setup/index.html" />
-      <change beforePath="$PROJECT_DIR$/cv/index.md" afterPath="$PROJECT_DIR$/cv/index.md" />
-      <change beforePath="$PROJECT_DIR$/images/DHupkes.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/amsterdam-header2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/dieuwk.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/dieuwk_portugal.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/icy_amsterdam1.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/paragraph-indent.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/paragraph-no-indent.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/sunny_amsterdam.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
-      <change beforePath="$PROJECT_DIR$/posts/index.md" afterPath="$PROJECT_DIR$/posts/index.md" />
-      <change beforePath="$PROJECT_DIR$/projects/index.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/publications.md" afterPath="$PROJECT_DIR$/publications.md" />
-      <change beforePath="$PROJECT_DIR$/research/JAIR.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research/LREC2016.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research/\" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research/_site/LREC2016.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research/_site/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research/_site/nips2016.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research/_site/thesis.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research/attentive_guidance.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research/index.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research/jair.bib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research/nips.bib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research/nips2016.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research/nips2016_poster.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research/nips2017_poster.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/research/thesis.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/teaching.md" afterPath="$PROJECT_DIR$/teaching.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,15 +13,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cv/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="44" />
+              <first_editor relative-caret-position="285">
+                <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="645">
+                <caret line="43" column="44" lean-forward="false" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="157" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" column="30" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_author-bio.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/_author-bio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="62" lean-forward="false" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -138,7 +115,6 @@
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/posts/index.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_includes/_author-bio.html" />
         <option value="$PROJECT_DIR$/teaching.md" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/research/index.md" />
@@ -147,6 +123,7 @@
         <option value="$PROJECT_DIR$/projects/index.md" />
         <option value="$PROJECT_DIR$/publications.md" />
         <option value="$PROJECT_DIR$/projects/project_sites/SDVI/video_results.html" />
+        <option value="$PROJECT_DIR$/_includes/_author-bio.html" />
       </list>
     </option>
   </component>
@@ -188,41 +165,6 @@
               <item name="xharlie.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="xharlie.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xharlie.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xharlie.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xharlie.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xharlie.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="project_sites" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xharlie.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xharlie.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="project_sites" type="462c0819:PsiDirectoryNode" />
-              <item name="SDVI" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xharlie.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xharlie.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="project_sites" type="462c0819:PsiDirectoryNode" />
-              <item name="SDVI" type="462c0819:PsiDirectoryNode" />
-              <item name="webpage_dependencies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xharlie.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xharlie.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="project_sites" type="462c0819:PsiDirectoryNode" />
-              <item name="SDVI" type="462c0819:PsiDirectoryNode" />
-              <item name="webpage_dependencies" type="462c0819:PsiDirectoryNode" />
-              <item name="serie_result" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -415,14 +357,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/_author-bio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cv.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -455,14 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="23" lean-forward="false" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -724,6 +650,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projects/index.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -741,22 +686,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="630">
+          <caret line="42" column="30" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="44" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/_includes/_author-bio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="62" lean-forward="false" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding />
         </state>
       </provider>
     </entry>
