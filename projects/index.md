@@ -41,7 +41,7 @@ Currently I start to involve in a new project funded by Adobe Research, designin
 
 ## Previous Projects
 
-### Stochastic Dynamics for Video Infilling \[[<font color="brown">project site</font>](../projects/project_sites/SDVI/video_results.html){:target="blank"}\]
+### Stochastic Dynamics for Video Infilling \[[<font color="brown">paper</font>](https://arxiv.org/abs/1809.00263){:target="blank"}\] \[[<font color="brown">project site</font>](../projects/project_sites/SDVI/video_results.html){:target="blank"}\] 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We introduce a stochastic generation framework (SDVI) to infill long intervals in video sequences. SDVI consists of two parts: (1) a bi-directional constraint propagation
 to guarantee the spatial-temporal coherency among frames, (2) a stochastic sampling process to generate dynamics from the inferred distributions. Experimental results show that SDVI can generate clear and varied sequences.
@@ -66,7 +66,7 @@ Model            |  Feature space interpolation  | Feature space clustering
 
 <br>
 
-### Neural Gesture \[[<font color="brown">code</font>](https://github.com/Xharlie/Eye-movement-similarity-clustering){:target="blank"}\] \[[<font color="brown">paper</font>](https://arxiv.org/abs/1712.09709){:target="blank"}\]
+### Neural Gesture \[[<font color="brown">paper</font>](https://arxiv.org/abs/1712.09709){:target="blank"}\] \[[<font color="brown">code</font>](https://github.com/Xharlie/Eye-movement-similarity-clustering){:target="blank"}\] 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A NSF project leaded by Prof. John Kender, studying relationship between gestures of speakers and audiences’ attention. I have: 
 -	Design and implemented distance matching algorithm based on “Time Warp Edit Distance” between every pair of eye tracking trajectories to get a eye-tracking distance matrix.
