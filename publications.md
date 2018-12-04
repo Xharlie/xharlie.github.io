@@ -5,7 +5,7 @@ excerpt: "Publications"
 tags: [Jekyll, theme, responsive, blog, template]
 comments: true
 image: 
-    feature: background_p.jpg
+    feature: 
 ---
 
 {% include _toc.html %}
