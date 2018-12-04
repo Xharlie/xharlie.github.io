@@ -66,7 +66,8 @@ Model            |  Feature space interpolation  | Feature space clustering
 
 <br>
 
-### Neural Gesture \[[<font color="brown">code</font>](https://github.com/Xharlie/Eye-movement-similarity-clustering){:target="blank"}\]
+### Neural Gesture \[[<font color="brown">code</font>](https://github.com/Xharlie/Eye-movement-similarity-clustering){:target="blank"}\] \[[<font color="brown">paper</font>](https://arxiv.org/abs/1712.09709){:target="blank"}\]
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A NSF project leaded by Prof. John Kender, studying relationship between gestures of speakers and audiences’ attention. I have: 
 -	Design and implemented distance matching algorithm based on “Time Warp Edit Distance” between every pair of eye tracking trajectories to get a eye-tracking distance matrix.
 -	Fine-tuned the hyper-parameter of TWED based algorithm by comparing eye movement trails.
