@@ -37,7 +37,7 @@ I am interested in many different aspects of Computer Vision:
 ## Current Projects
 
 ### 3D Deformation
-Currently I start to involve in a new project funded by Adobe Research, designing deformation model to transform a style of the source 3D mesh to a target 3D model/2D image while still holding its topological structure.
+Currently I start to involve in a new project funded by Adobe Research, designing model to transform a 3D mesh to a target 3D model/2D image while still holding its topological structure.
 
 ## Previous Projects
 
