@@ -47,9 +47,12 @@ I have:
 •	Used concepts of principal direction to rectify the building 2D contour after planar RANSAC.
 •	Simplified, merged and aligned the edges according to the proximity in Hough space.
 •	Clustered the plane’s norm direction using DBSCAN and adjusted them to conventional angles. 
+
 Motivaton  |   single building result           
 :-------------------------:|:-------------------------:
-![](../images/core_3d_motivation.png)  |  ![](../images/core_3d_yazu.png)
+![](../images/core_3d_motivation.jpg)  |  ![](../images/core_3d_yazu.png)
+
+<br>
 
 ### Stochastic Dynamics for Video Infilling \[[<font color="brown">paper</font>](https://arxiv.org/abs/1809.00263){:target="blank"}\] \[[<font color="brown">project site</font>](../projects/project_sites/SDVI/video_results.html){:target="blank"}\] 
 
