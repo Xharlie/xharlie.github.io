@@ -36,10 +36,20 @@ I am interested in many different aspects of Computer Vision:
 
 ## Current Projects
 
-### 3D Project
+### 3D Project 
 Currently I start to involve in a new project funded by Adobe Research, designing model to transform a 3D mesh to a target 3D model/2D image while still holding its topological structure.
 
 ## Previous Projects
+
+### Core 3D (Funded by IARPA)
+The goal of this project is to construct 3D building models from large-scale satellite DEM and point cloud. The point cloud covers several regions of different geographical locations.
+I have: 
+•	Used concepts of principal direction to rectify the building 2D contour after planar RANSAC.
+•	Simplified, merged and aligned the edges according to the proximity in Hough space.
+•	Clustered the plane’s norm direction using DBSCAN and adjusted them to conventional angles. 
+Motivaton  |   single building result           
+:-------------------------:|:-------------------------:
+![](../images/core_3d_motivation.png)  |  ![](../images/core_3d_yazu.png)
 
 ### Stochastic Dynamics for Video Infilling \[[<font color="brown">paper</font>](https://arxiv.org/abs/1809.00263){:target="blank"}\] \[[<font color="brown">project site</font>](../projects/project_sites/SDVI/video_results.html){:target="blank"}\] 
 
