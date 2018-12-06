@@ -50,7 +50,7 @@ I have:
 
 Motivaton  |   single building result           
 :-------------------------:|:-------------------------:
-![](../images/core_3d_motivation.jpg)  |  ![](../images/core_3d_yazu.png)
+![](../images/core_3d_motivation.jpg){::width="60%"}   |  ![](../images/core_3d_yazu.png){::width="100%"} 
 
 <br>
 
