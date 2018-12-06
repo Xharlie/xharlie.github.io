@@ -42,7 +42,7 @@ Currently I start to involve in a new project funded by Adobe Research, designin
 ## Previous Projects
 
 ### Core 3D (Funded by IARPA)
-The goal of this project is to construct 3D building models from large-scale satellite DEM and point cloud. The point cloud covers several regions of different geographical locations.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The goal of this project is to construct 3D building models from large-scale satellite DEM and point cloud. The point cloud covers several regions of different geographical locations.
 I have: 
 •	Used concepts of principal direction to rectify the building 2D contour after planar RANSAC.
 •	Simplified, merged and aligned the edges according to the proximity in Hough space.
@@ -50,7 +50,7 @@ I have:
 
 Motivaton  |   single building result           
 :-------------------------:|:-------------------------:
-![](../images/core_3d_motivation.jpg){::width="60%"}   |  ![](../images/core_3d_yazu.png){::width="100%"} 
+![](../images/core_3d_motivation.jpg){:width="80%"}   |  ![](../images/core_3d_yazu.png){:width="180%"} 
 
 <br>
 
@@ -61,7 +61,7 @@ to guarantee the spatial-temporal coherency among frames, (2) a stochastic sampl
 
 Motivation |   Model           
 :-------------------------:|:-------------------------:
-![](../images/stochastic_motivation.jpg)  |  ![](../images/stochastic_training.jpg)
+![](../images/stochastic_motivation.jpg){:width="90%"}  |  ![](../images/stochastic_training.jpg)
 
 <br>
 
@@ -81,12 +81,11 @@ Model            |  Feature space interpolation  | Feature space clustering
 
 ### Neural Gesture (Funded by NSF) \[[<font color="brown">paper</font>](https://arxiv.org/abs/1712.09709){:target="blank"}\] \[[<font color="brown">code</font>](https://github.com/Xharlie/Eye-movement-similarity-clustering){:target="blank"}\] 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A NSF project leaded by Prof. John Kender, studying relationship between gestures of speakers and audiences’ attention. I have: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The project is leaded by Prof. John Kender, studying relationship between gestures of speakers and audiences’ attention. I have: 
 -	Design and implemented distance matching algorithm based on “Time Warp Edit Distance” between every pair of eye tracking trajectories to get a eye-tracking distance matrix.
 -	Fine-tuned the hyper-parameter of TWED based algorithm by comparing eye movement trails.
 -	Clustered subjects based on “fast multi-scale detection of relevant communities” by using the distance matrix.
 
-
 Attention fixation            |  Eye trajectory and co-relation  
 :-------------------------:|:-------------------------:|:-------------------------:
-![](../images/neural_gesture_fixation.png){:width="80%"}  |  ![](../images/neural_gesture_trajectory.png){::width="100%"} 
+![](../images/neural_gesture_fixation.png){:width="80%"}  |  ![](../images/neural_gesture_trajectory.png){:width="100%"} 
