@@ -38,6 +38,17 @@ I am interested in many different aspects of Computer Vision:
 
 ### 3D Reconstruction from a Single Image
 Currently I start to involve in a new project funded by Adobe Research, designing model to reconstruct a 3D model from a 2D image by using point cloud proposal and part deformation.
+
+### Fast Adaptive Meta-Learning based branching for Mixed Interger Programming
+We propose a meta-learning framework for variable selection in the branch-and-bound algorithm of Mixed Integer Programming(MIP).
+With the meta-learning methodology, we train our base model with samples from various MIP problems to mimic the general variable selection behavior of Strong Branching (SB). At the same time, the base model can also adaptively mimic the behavior of SB for a specific MIP instance, and easily get updated based on the current
+state once for a while during the branch-and-bound search. Experiments on benchmark instances indicate that our model is able to produce more accurate variable ranking than the state-of-the-art
+method using SVM ranking[Khalil et al., 2016], even trained with fewer online training sample.
+
+MAML  |   Initial Result           
+:-------------------------:|:-------------------------:
+![](../images/meta_learning.png){:width="100%"}   |  ![](../images/rank_chart.png){:width="180%"} 
+
 ## Previous Projects
 
 ### Core 3D (Funded by IARPA)

@@ -149,6 +149,7 @@
   <li><a href="#research-interests" id="markdown-toc-research-interests">Research Interests</a></li>
   <li><a href="#current-projects" id="markdown-toc-current-projects">Current Projects</a>    <ul>
       <li><a href="#3d-reconstruction-from-a-single-image" id="markdown-toc-3d-reconstruction-from-a-single-image">3D Reconstruction from a Single Image</a></li>
+      <li><a href="#fast-adaptive-meta-learning-based-branching-for-mixed-interger-programming" id="markdown-toc-fast-adaptive-meta-learning-based-branching-for-mixed-interger-programming">Fast Adaptive Meta-Learning based branching for Mixed Interger Programming</a></li>
     </ul>
   </li>
   <li><a href="#previous-projects" id="markdown-toc-previous-projects">Previous Projects</a>    <ul>
@@ -194,6 +195,28 @@
 
 <h3 id="3d-reconstruction-from-a-single-image">3D Reconstruction from a Single Image</h3>
 <p>Currently I start to involve in a new project funded by Adobe Research, designing model to reconstruct a 3D model from a 2D image by using point cloud proposal and part deformation.</p>
+
+<h3 id="fast-adaptive-meta-learning-based-branching-for-mixed-interger-programming">Fast Adaptive Meta-Learning based branching for Mixed Interger Programming</h3>
+<p>We propose a meta-learning framework for variable selection in the branch-and-bound algorithm of Mixed Integer Programming(MIP).
+With the meta-learning methodology, we train our base model with samples from various MIP problems to mimic the general variable selection behavior of Strong Branching (SB). At the same time, the base model can also adaptively mimic the behavior of SB for a specific MIP instance, and easily get updated based on the current
+state once for a while during the branch-and-bound search. Experiments on benchmark instances indicate that our model is able to produce more accurate variable ranking than the state-of-the-art
+method using SVM ranking[Khalil et al., 2016], even trained with fewer online training sample.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">MAML</th>
+      <th style="text-align: center">Initial Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="../images/meta_learning.png" alt="" width="100%" /></td>
+      <td style="text-align: center"><img src="../images/rank_chart.png" alt="" width="180%" /></td>
+    </tr>
+  </tbody>
+</table>
+
 <h2 id="previous-projects">Previous Projects</h2>
 
 <h3 id="core-3d-funded-by-iarpa">Core 3D (Funded by IARPA)</h3>
