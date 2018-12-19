@@ -36,9 +36,8 @@ I am interested in many different aspects of Computer Vision:
 
 ## Current Projects
 
-### 3D Project 
-Currently I start to involve in a new project funded by Adobe Research, designing model to transform a 3D mesh to a target 3D model/2D image while still holding its topological structure.
-
+### 3D Reconstruction from a Single Image
+Currently I start to involve in a new project funded by Adobe Research, designing model to reconstruct a 3D model from a 2D image by using point cloud proposal and part deformation.
 ## Previous Projects
 
 ### Core 3D (Funded by IARPA)
