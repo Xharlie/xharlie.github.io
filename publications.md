@@ -19,5 +19,5 @@ image:
 * Dynamic Eye Movement Matching and Visualization Tool in Neuro Gesture (2017) Q Xu, J Kender. arXiv preprint arXiv:1712.09709\\
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1712.09709){:target="blank"}\]
 
-* Generative Cooperative Net for Image Generation and Data Augmentation (2017) Q Xu, Z Qin, T Wan. arXiv preprint arXiv:1705.02887\\
+* Generative Cooperative Net for Image Generation and Data Augmentation (2017) Q Xu, Z Qin, T Wan. The International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making (IUKM) 2019\\
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1705.02887){:target="blank"}\]
