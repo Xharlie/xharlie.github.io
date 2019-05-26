@@ -48,6 +48,7 @@ I have been a teaching assistant in the following courses:
 
 <div id="columns">
     <div class="date column">
+        <br><b>        Jan-May 2019
         <br><b>        Jan-May 2017
         <br><br><br><br><br>Sep-Dec 2017
         <br><br>
