@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da34f5e3-df7f-4afa-9635-fc63d32452de" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/teaching/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/teaching/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/teaching.md" beforeDir="false" afterPath="$PROJECT_DIR$/teaching.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/teaching.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="750">
-                <caret line="50" column="31" lean-forward="true" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+              <first_editor relative-caret-position="870">
+                <caret line="58" column="50" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="50" />
               </first_editor>
               <second_editor />
             </state>
@@ -212,12 +214,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543795168057</updated>
-      <workItem from="1558836556085" duration="3155000" />
+      <workItem from="1558836556085" duration="3877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3155000" />
+    <option name="totallyTimeSpent" value="3877000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="3348" height="1417" extended-state="6" />
@@ -537,8 +539,8 @@
     <entry file="file://$PROJECT_DIR$/teaching.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="750">
-            <caret line="50" column="31" lean-forward="true" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+          <first_editor relative-caret-position="870">
+            <caret line="58" column="50" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="50" />
           </first_editor>
           <second_editor />
         </state>
