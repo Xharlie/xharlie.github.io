@@ -54,6 +54,8 @@ I have been a teaching assistant in the following courses:
         </b>
     </div>
     <div class="description column">
+        <br><b><a href="http://http://www-scf.usc.edu/~csci570/" target="_blank"><font color="brown">CSCI 570 Analysis of Algorithms</font></a></b> (USC)
+        
         <br><b><a href="http://www.cs.columbia.edu/~jrk/csw4735/public_html/info.html" target="_blank"><font color="brown">COMS 4735 Visual Interfaces to Computers</font></a></b> (Columbia University)
         <br><i> The course is a survey of existing research systems that allow computers to accept and manipulate visual input, usually from real time cameras, in order to direct further computer processing. </i>
         
