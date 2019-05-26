@@ -36,8 +36,14 @@ I am interested in many different aspects of Computer Vision:
 
 ## Current Projects
 
+### Object Detection in Point Cloud
+
+## Previous Projects
+
 ### 3D Reconstruction from a Single Image
-Currently I start to involve in a new project funded by Adobe Research, designing model to reconstruct a 3D model from a 2D image by using point cloud proposal and part deformation.
+High quality single view 3D reconstruction by using SDF and local features. Please refer to our publication
+\[[<font color="brown">project site</font>](https://xharlie.github.io/publications/){:target="blank"}\]
+![](../images/DISN_teaser.png)
 
 ### Fast Adaptive Meta-Learning based branching for Mixed Interger Programming
 We propose a meta-learning framework for variable selection in the branch-and-bound algorithm of Mixed Integer Programming(MIP).
@@ -49,7 +55,6 @@ MAML  |   Initial Result
 :-------------------------:|:-------------------------:
 ![](../images/meta_learning.png){:width="100%"}   |  ![](../images/rank_chart.png){:width="180%"} 
 
-## Previous Projects
 
 ### Core 3D (Funded by IARPA)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The goal of this project is to construct 3D building models from large-scale satellite DEM and point cloud. The point cloud covers several regions of different geographical locations.
