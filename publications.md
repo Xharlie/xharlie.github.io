@@ -12,7 +12,7 @@ image:
 ## 2019
 * DISN: Deep Implicit Surface Network forHigh-quality Single-view 3D Reconstruction  
  <b>Qiangeng Xu&#10036;</b>, <b>Weiyue Wang&#10036;</b>, Duygu Ceylan, Radomir Mech, Ulrich Neumann    
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](../papers/DISN_sup){:target="bla.pdfnk"}\]
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](../papers/DISN_sup.pdf){:target="bla.pdfnk"}\]
 
 ## 2018
 * Stochastic Dynamics for Video Infilling  
