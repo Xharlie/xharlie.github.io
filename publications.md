@@ -12,22 +12,58 @@ image:
 ## 2019
 * DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction  
  <b>Qiangeng Xu&#10036;</b>, <b>Weiyue Wang&#10036;</b>, Duygu Ceylan, Radomir Mech, Ulrich Neumann    
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](http://www-scf.usc.edu/~weiyuewa/papers/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] \[[<font color="brown">bibtex</font>](https://scholar.googleusercontent.com/scholar.bib?q=info:UPwj3GF7o8wJ:scholar.google.com/&output=citation&scisdr=CgXBxboTEKLElRCmUVk:AAGBfm0AAAAAXPWjSVmzWoND0juApVp9f5AixLcV6ut0&scisig=AAGBfm0AAAAAXPWjSQHc8rmq-widKvlIqm7gUQp8vfTP&scisf=4&ct=citation&cd=-1&hl=en){:target="blank"}\]
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](http://www-scf.usc.edu/~weiyuewa/papers/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] 
+  <details> <summary>bibtex</summary> @misc{xu2019disn,
+    title={DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction},
+    author={Qiangeng Xu and Weiyue Wang and Duygu Ceylan and Radomir Mech and Ulrich Neumann},
+    year={2019},
+    eprint={1905.10711},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}</details>
+
 
 ## 2018
 * Stochastic Dynamics for Video Infilling  
  <b>Qiangeng Xu</b>, Hanwang Zhang, Weiyue Wang, Peter N. Belhumeur, Ulrich Neumann.  
   CVPRw 2019  
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1809.00263){:target="blank"}\] \[[<font color="brown">project site</font>](../projects/project_sites/SDVI/video_results.html){:target="blank"}\] \[[<font color="brown">bibtex</font>](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1809-00263){:target="blank"}\]
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/1809.00263){:target="blank"}\] \[[<font color="brown">project site</font>](../projects/project_sites/SDVI/video_results.html){:target="blank"}\] 
+  <details> <summary>bibtex</summary> @misc{xu2019disn,
+@misc{xu2018stochastic,
+    title={Stochastic Dynamics for Video Infilling},
+    author={Qiangeng Xu and Hanwang Zhang and Weiyue Wang and Peter N. Belhumeur and Ulrich Neumann},
+    year={2018},
+    eprint={1809.00263},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}</details>
 
 ## 2017
 
 * Dynamic Eye Movement Matching and Visualization Tool in Neuro Gesture  
   <b>Qiangeng Xu</b>, John Kender.   
   arXiv preprint arXiv:1712.09709  
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1712.09709){:target="blank"}\] \[[<font color="brown">bibtex</font>](https://scholar.googleusercontent.com/scholar.bib?q=info:0HESnj0oGOAJ:scholar.google.com/&output=citation&scisdr=CgXBxboTEKLElRCnegQ:AAGBfm0AAAAAXPWiYgR2fWUrwxtDg5aezq4diO5Ao_Ux&scisig=AAGBfm0AAAAAXPWiYvPQJmYFYJC12OUxVSejeLljvxXW&scisf=4&ct=citation&cd=-1&hl=en){:target="blank"}\]
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/1712.09709){:target="blank"}\] 
+  <details> <summary>bibtex</summary>
+@misc{xu2017report,
+    title={Report: Dynamic Eye Movement Matching and Visualization Tool in Neuro Gesture},
+    author={Qiangeng Xu and John Kender},
+    year={2017},
+    eprint={1712.09709},
+    archivePrefix={arXiv},
+    primaryClass={cs.NE}
+}</details>
 
 * Generative Cooperative Net for Image Generation and Data Augmentation  
   <b>Qiangeng Xu</b>, Zengchang Qin, Tao Wan.   
   The International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making (IUKM) 2019  
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1705.02887){:target="blank"}\] \[[<font color="brown">bibtex</font>](https://scholar.googleusercontent.com/scholar.bib?q=info:IaUJ9Qfpo-AJ:scholar.google.com/&output=citation&scisdr=CgXBxboTEKLElRCnKNY:AAGBfm0AAAAAXPWiMNZyMSXDwmQbJvp9YN3zhO3y2u9A&scisig=AAGBfm0AAAAAXPWiMG2-1GA5HxVroDHJs7Od8Ca8XskI&scisf=4&ct=citation&cd=-1&hl=en){:target="blank"}\]
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/1705.02887){:target="blank"}\] 
+  <details> <summary>bibtex</summary>
+@inproceedings{xu2019generative,
+  title={Generative cooperative net for image generation and data augmentation},
+  author={Xu, Qiangeng and Qin, Zengchang and Wan, Tao},
+  booktitle={International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making},
+  pages={284--294},
+  year={2019},
+  organization={Springer}
+}</details>
