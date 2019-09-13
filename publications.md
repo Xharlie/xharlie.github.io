@@ -15,14 +15,15 @@ image:
  NeurIPS 2019
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](http://www-scf.usc.edu/~weiyuewa/papers/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] \[[<font color="brown">code</font>](https://github.com/Xharlie/DISN){:target="bla.pdfnk"}\]
   <details> <summary>bibtex</summary>
-      '''
+     '''
         @inProceedings{xu2019disn,
           title={DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction},
           author={Xu, Qiangeng and Wang, Weiyue and Ceylan, Duygu and Mech, Radomir and Neumann, Ulrich},
           booktitle={NeurIPS},
           year={2019}
-      '''  
-}</details>
+        }
+     '''  
+</details>
 
 
 ## 2018
