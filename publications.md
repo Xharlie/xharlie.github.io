@@ -12,14 +12,13 @@ image:
 ## 2019
 * DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction  
  <b>Qiangeng Xu&#10036;</b>, <b>Weiyue Wang&#10036;</b>, Duygu Ceylan, Radomir Mech, Ulrich Neumann    
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](http://www-scf.usc.edu/~weiyuewa/papers/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] 
-  <details> <summary>bibtex</summary> @misc{xu2019disn,
-    title={DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction},
-    author={Qiangeng Xu and Weiyue Wang and Duygu Ceylan and Radomir Mech and Ulrich Neumann},
-    year={2019},
-    eprint={1905.10711},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+ NeurIPS 2019
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](http://www-scf.usc.edu/~weiyuewa/papers/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] \[[<font color="brown">code</font>](https://github.com/Xharlie/DISN ){:target="bla.pdfnk"}
+  <details> <summary>bibtex</summary> @inProceedings{xu2019disn,
+  title={DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction},
+  author={Xu, Qiangeng and Wang, Weiyue and Ceylan, Duygu and Mech, Radomir and Neumann, Ulrich},
+  booktitle={NeurIPS},
+  year={2019}
 }</details>
 
 
