@@ -28,7 +28,6 @@ image:
   </p>
  </details>
 
-## 2018
 * Stochastic Dynamics for Video Infilling  
  <b>Qiangeng Xu</b>, Hanwang Zhang, Weiyue Wang, Peter N. Belhumeur, Ulrich Neumann.  
   CVPRw 2019  
@@ -48,7 +47,6 @@ image:
   </p>
   </details>
 
-## 2017
 
 * Dynamic Eye Movement Matching and Visualization Tool in Neuro Gesture  
   <b>Qiangeng Xu</b>, John Kender.   
