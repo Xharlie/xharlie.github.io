@@ -10,6 +10,7 @@ image:
 
 {% include _toc.html %}
 ## 2019
+
 * DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction  
  <b>Qiangeng Xu&#10036;</b>, <b>Weiyue Wang&#10036;</b>, Duygu Ceylan, Radomir Mech, Ulrich Neumann    
  NeurIPS 2019   
@@ -27,6 +28,7 @@ image:
   ```  
   </p>
  </details>
+
 
 * Stochastic Dynamics for Video Infilling  
  <b>Qiangeng Xu</b>, Hanwang Zhang, Weiyue Wang, Peter N. Belhumeur, Ulrich Neumann.  
@@ -46,6 +48,7 @@ image:
     ```  
   </p>
   </details>
+
 
 * Generative Cooperative Net for Image Generation and Data Augmentation  
   <b>Qiangeng Xu</b>, Zengchang Qin, Tao Wan.   
