@@ -27,7 +27,7 @@ image:
   }
   ```  
   </p>
- </details>
+  </details>
 
 
 * Stochastic Dynamics for Video Infilling  
@@ -35,7 +35,7 @@ image:
   CVPRw 2019  
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1809.00263){:target="blank"}\] \[[<font color="brown">project site</font>](../projects/project_sites/SDVI/video_results.html){:target="blank"}\] 
   <details> <summary>bibtex</summary>
-    <p>
+  <p>
       
     ```
     @inProceedings{
