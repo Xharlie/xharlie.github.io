@@ -47,7 +47,27 @@ image:
   </p>
   </details>
 
-
+* Generative Cooperative Net for Image Generation and Data Augmentation  
+  <b>Qiangeng Xu</b>, Zengchang Qin, Tao Wan.   
+  The International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making (IUKM) 2019  
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/1705.02887){:target="blank"}\] 
+  <details> <summary>bibtex</summary>
+  <p>
+      
+   ```
+    @inproceedings{xu2019generative,
+      title={Generative cooperative net for image generation and data augmentation},
+      author={Xu, Qiangeng and Qin, Zengchang and Wan, Tao},
+      booktitle={International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making},
+      pages={284--294},
+      year={2019},
+      organization={Springer}
+    }
+    ```
+  </p>
+  </details>
+  
+## 2017
 * Dynamic Eye Movement Matching and Visualization Tool in Neuro Gesture  
   <b>Qiangeng Xu</b>, John Kender.   
   arXiv preprint arXiv:1712.09709  
@@ -61,23 +81,3 @@ image:
     archivePrefix={arXiv},
     primaryClass={cs.NE}
 }</details>
-
-* Generative Cooperative Net for Image Generation and Data Augmentation  
-  <b>Qiangeng Xu</b>, Zengchang Qin, Tao Wan.   
-  The International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making (IUKM) 2019  
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1705.02887){:target="blank"}\] 
-  <details> <summary>bibtex</summary>
-  <p>
-    
-   ```
-    @inproceedings{xu2019generative,
-      title={Generative cooperative net for image generation and data augmentation},
-      author={Xu, Qiangeng and Qin, Zengchang and Wan, Tao},
-      booktitle={International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making},
-      pages={284--294},
-      year={2019},
-      organization={Springer}
-    }
-    ```  
-  </p>
-  </details>
