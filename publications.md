@@ -15,33 +15,38 @@ image:
  NeurIPS 2019
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](http://www-scf.usc.edu/~weiyuewa/papers/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] \[[<font color="brown">code</font>](https://github.com/Xharlie/DISN){:target="bla.pdfnk"}\]
   <details> <summary>bibtex</summary>
-    <p>
-         '''
-            @inProceedings{xu2019disn,
-              title={DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction},
-              author={Xu, Qiangeng and Wang, Weiyue and Ceylan, Duygu and Mech, Radomir and Neumann, Ulrich},
-              booktitle={NeurIPS},
-              year={2019}
-            }
-         '''  
-    </p>
-</details>
-
+  <p>
+      
+  ```
+  @inProceedings{xu2019disn,
+      title={DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction},
+      author={Xu, Qiangeng and Wang, Weiyue and Ceylan, Duygu and Mech, Radomir and Neumann, Ulrich},
+      booktitle={NeurIPS},
+      year={2019}
+  }
+  ```  
+  </p>
+ </details>
 
 ## 2018
 * Stochastic Dynamics for Video Infilling  
  <b>Qiangeng Xu</b>, Hanwang Zhang, Weiyue Wang, Peter N. Belhumeur, Ulrich Neumann.  
   CVPRw 2019  
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1809.00263){:target="blank"}\] \[[<font color="brown">project site</font>](../projects/project_sites/SDVI/video_results.html){:target="blank"}\] 
-  <details> <summary>bibtex</summary> @misc{xu2019disn,
-@misc{xu2018stochastic,
-    title={Stochastic Dynamics for Video Infilling},
-    author={Qiangeng Xu and Hanwang Zhang and Weiyue Wang and Peter N. Belhumeur and Ulrich Neumann},
-    year={2018},
-    eprint={1809.00263},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}</details>
+  <details> <summary>bibtex</summary>
+    <p>
+      
+    ```
+    @inProceedings{
+        xu2018stochastic,
+        title={Stochastic Dynamics for Video Infilling},
+        author={Qiangeng Xu and Hanwang Zhang and Weiyue Wang and Peter N. Belhumeur and Ulrich Neumann},
+        booktitle={CVPRw}
+        year={2019}
+    }
+    ```  
+  </p>
+  </details>
 
 ## 2017
 
@@ -64,11 +69,17 @@ image:
   The International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making (IUKM) 2019  
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1705.02887){:target="blank"}\] 
   <details> <summary>bibtex</summary>
-@inproceedings{xu2019generative,
-  title={Generative cooperative net for image generation and data augmentation},
-  author={Xu, Qiangeng and Qin, Zengchang and Wan, Tao},
-  booktitle={International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making},
-  pages={284--294},
-  year={2019},
-  organization={Springer}
-}</details>
+  <p>
+    
+   ```
+    @inproceedings{xu2019generative,
+      title={Generative cooperative net for image generation and data augmentation},
+      author={Xu, Qiangeng and Qin, Zengchang and Wan, Tao},
+      booktitle={International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making},
+      pages={284--294},
+      year={2019},
+      organization={Springer}
+    }
+    ```  
+  </p>
+  </details>
