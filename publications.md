@@ -16,9 +16,7 @@ image:
  <b>Qiangeng Xu&#10036;</b>, <b>Weiyue Wang&#10036;</b>, Duygu Ceylan, Radomir Mech, Ulrich Neumann    
  NeurIPS 2019   
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](http://www-scf.usc.edu/~weiyuewa/papers/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] \[[<font color="brown">code</font>](https://github.com/Xharlie/DISN){:target="bla.pdfnk"}\]
-  <details> <summary>bibtex</summary>
-  <p>
-      
+  <details> <summary>bibtex</summary>   
       
   @inProceedings{xu2019disn, 
   
@@ -32,19 +30,15 @@ image:
       
   }
   
-    
-  </p>
   </details>
 
 
 * #### Stochastic Dynamics for Video Infilling  
  <b>Qiangeng Xu</b>, Hanwang Zhang, Weiyue Wang, Peter N. Belhumeur, Ulrich Neumann.  
   2020 Winter Conference on Applications of Computer Vision (WACV 2020)	
-  
   CVPRw 2019  
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1809.00263){:target="blank"}\] \[[<font color="brown">project site</font>](../projects/project_sites/SDVI/video_results.html){:target="blank"}\] 
   <details> <summary>bibtex</summary>
-  <p>
       
   @inProceedings{xu2020sdvi, 
   
@@ -58,7 +52,6 @@ image:
       
   } 
   
-  </p>
   </details>
 
 
@@ -67,7 +60,6 @@ image:
   The International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making (IUKM) 2019  
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1705.02887){:target="blank"}\] 
   <details> <summary>bibtex</summary>
-  <p>
         
     @inproceedings{xu2019generative,
     
@@ -85,7 +77,6 @@ image:
       
     }
     
-  </p>
   </details>
   
 ## 2017
@@ -95,7 +86,6 @@ image:
   arXiv preprint arXiv:1712.09709  
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1712.09709){:target="blank"}\] 
   <details> <summary>bibtex</summary>
-  <p>
         
     ```
     @misc{xu2017report,
@@ -107,5 +97,4 @@ image:
         primaryClass={cs.NE}
     }
     ```
-  </p>
   </details>
