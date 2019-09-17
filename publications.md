@@ -35,7 +35,7 @@ image:
       <br />@inProceedings{xu2020sdvi, 
       <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={Stochastic Dynamics for Video Infilling},
       <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author={Qiangeng Xu, Hanwang Zhang, Weiyue Wang, Peter N. Belhumeur, Ulrich Neumann},
-      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle={WACV2020},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle={Winter Conference on Applications of Computer Vision},
       <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year={2020}
       <br />} 
   </details>
