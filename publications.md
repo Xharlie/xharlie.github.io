@@ -19,34 +19,45 @@ image:
   <details> <summary>bibtex</summary>
   <p>
       
-  ```
-  @inProceedings{xu2019disn,
-      title={DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction},
-      author={Xu, Qiangeng and Wang, Weiyue and Ceylan, Duygu and Mech, Radomir and Neumann, Ulrich},
-      booktitle={NeurIPS},
-      year={2019}
+      
+  @inProceedings{xu2019disn, 
+  
+  <b> title={DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction},
+      
+  <b> author={Xu, Qiangeng and Wang, Weiyue and Ceylan, Duygu and Mech, Radomir and Neumann, Ulrich},
+      
+  <b> booktitle={NeurIPS},
+      
+  <b> year={2019}
+      
   }
-  ```  
+  
+    
   </p>
   </details>
 
 
 * #### Stochastic Dynamics for Video Infilling  
  <b>Qiangeng Xu</b>, Hanwang Zhang, Weiyue Wang, Peter N. Belhumeur, Ulrich Neumann.  
+  2020 Winter Conference on Applications of Computer Vision (WACV 2020)	
+  
   CVPRw 2019  
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1809.00263){:target="blank"}\] \[[<font color="brown">project site</font>](../projects/project_sites/SDVI/video_results.html){:target="blank"}\] 
   <details> <summary>bibtex</summary>
   <p>
       
-    ```
-    @inProceedings{
-        xu2018stochastic,
-        title={Stochastic Dynamics for Video Infilling},
-        author={Qiangeng Xu and Hanwang Zhang and Weiyue Wang and Peter N. Belhumeur and Ulrich Neumann},
-        booktitle={CVPRw}
-        year={2019}
-    }
-    ```  
+  @inProceedings{xu2020sdvi, 
+  
+  <b> title={Stochastic Dynamics for Video Infilling},
+      
+  <b> author={Qiangeng Xu, Hanwang Zhang, Weiyue Wang, Peter N. Belhumeur, Ulrich Neumann},
+      
+  <b> booktitle={WACV2020},
+      
+  <b> year={2020}
+      
+  } 
+  
   </p>
   </details>
 
@@ -58,16 +69,22 @@ image:
   <details> <summary>bibtex</summary>
   <p>
         
-    ```
     @inproceedings{xu2019generative,
-      title={Generative cooperative net for image generation and data augmentation},
-      author={Xu, Qiangeng and Qin, Zengchang and Wan, Tao},
-      booktitle={International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making},
-      pages={284--294},
-      year={2019},
-      organization={Springer}
+    
+    <b> title={Generative cooperative net for image generation and data augmentation},
+      
+    <b> author={Xu, Qiangeng and Qin, Zengchang and Wan, Tao},
+      
+    <b> booktitle={International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making},
+      
+    <b> pages={284--294},
+      
+    <b> year={2019},
+      
+    <b> organization={Springer}
+      
     }
-    ```
+    
   </p>
   </details>
   
