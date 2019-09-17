@@ -13,8 +13,8 @@ image:
 ## 2019
 
 * #### DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction  
- <b>Qiangeng Xu&#10036;</b>, <b>Weiyue Wang&#10036;</b>, Duygu Ceylan, Radomir Mech, Ulrich Neumann    
- NeurIPS 2019   
+<b>Qiangeng Xu&#10036;</b>, <b>Weiyue Wang&#10036;</b>, Duygu Ceylan, Radomir Mech, Ulrich Neumann    
+NeurIPS 2019   
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](http://www-scf.usc.edu/~weiyuewa/papers/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] \[[<font color="brown">code</font>](https://github.com/Xharlie/DISN){:target="bla.pdfnk"}\]
   <details> <summary>bibtex</summary>   
       
@@ -29,9 +29,7 @@ image:
       <b> year={2019}
 
       }
-  
   </details>
-
 
 * #### Stochastic Dynamics for Video Infilling  
  <b>Qiangeng Xu</b>, Hanwang Zhang, Weiyue Wang, Peter N. Belhumeur, Ulrich Neumann.  
@@ -51,7 +49,6 @@ image:
       <b> year={2020}
 
       } 
-  
   </details>
 
 
@@ -76,7 +73,6 @@ image:
     <b> organization={Springer}
       
     }
-    
   </details>
   
 ## 2017
