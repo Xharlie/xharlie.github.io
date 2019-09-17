@@ -11,86 +11,66 @@ image:
 {% include _toc.html %}
 
 ## 2019
-
-* #### DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction  
+* DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction  
 <b>Qiangeng Xu&#10036;</b>, <b>Weiyue Wang&#10036;</b>, Duygu Ceylan, Radomir Mech, Ulrich Neumann    
-NeurIPS 2019   
+<em>Conference on neural information processing systems (NeurIPS) 2019</em>
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](http://www-scf.usc.edu/~weiyuewa/papers/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] \[[<font color="brown">code</font>](https://github.com/Xharlie/DISN){:target="bla.pdfnk"}\]
   <details> <summary>bibtex</summary>   
-      
-      @inProceedings{xu2019disn, 
-
-      <b> title={DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction},
-
-      <b> author={Xu, Qiangeng and Wang, Weiyue and Ceylan, Duygu and Mech, Radomir and Neumann, Ulrich},
-
-      <b> booktitle={NeurIPS},
-
-      <b> year={2019}
-
-      }
+  
+      <br />@inProceedings{xu2019disn, 
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author={Xu, Qiangeng and Wang, Weiyue and Ceylan, Duygu and Mech, Radomir and Neumann, Ulrich},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle={NeurIPS},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year={2019}
+      <br />}
   </details>
-
-* #### Stochastic Dynamics for Video Infilling  
+&nbsp;
+* Stochastic Dynamics for Video Infilling  
  <b>Qiangeng Xu</b>, Hanwang Zhang, Weiyue Wang, Peter N. Belhumeur, Ulrich Neumann.  
-  2020 Winter Conference on Applications of Computer Vision (WACV 2020)	
-  CVPRw 2019  
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1809.00263){:target="blank"}\] \[[<font color="brown">project site</font>](../projects/project_sites/SDVI/video_results.html){:target="blank"}\] 
+  <em>CVPRw 2019</em><br />
+  <em>Winter Conference on Applications of Computer Vision (WACV) 2020</em>
+<br />\[[<font color="brown">paper</font>](https://arxiv.org/abs/1809.00263){:target="blank"}\] \[[<font color="brown">project site</font>](../projects/project_sites/SDVI/video_results.html){:target="blank"}\] 
   <details> <summary>bibtex</summary>
-      
-      @inProceedings{xu2020sdvi, 
 
-      <b> title={Stochastic Dynamics for Video Infilling},
-
-      <b> author={Qiangeng Xu, Hanwang Zhang, Weiyue Wang, Peter N. Belhumeur, Ulrich Neumann},
-
-      <b> booktitle={WACV2020},
-
-      <b> year={2020}
-
-      } 
+      <br />@inProceedings{xu2020sdvi, 
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={Stochastic Dynamics for Video Infilling},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author={Qiangeng Xu, Hanwang Zhang, Weiyue Wang, Peter N. Belhumeur, Ulrich Neumann},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle={WACV2020},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year={2020}
+      <br />} 
   </details>
-
-
-* #### Generative Cooperative Net for Image Generation and Data Augmentation  
+&nbsp;
+* Generative Cooperative Net for Image Generation and Data Augmentation  
   <b>Qiangeng Xu</b>, Zengchang Qin, Tao Wan.   
-  The International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making (IUKM) 2019  
+  <em>The International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making (IUKM) 2019</em>
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1705.02887){:target="blank"}\] 
   <details> <summary>bibtex</summary>
         
-    @inproceedings{xu2019generative,
+        <br />@inproceedings{xu2019generative,
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={Generative cooperative net for image generation and data augmentation},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author={Xu, Qiangeng and Qin, Zengchang and Wan, Tao},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle={International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pages={284--294},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year={2019},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; organization={Springer}
+        <br />}
     
-    <b> title={Generative cooperative net for image generation and data augmentation},
-      
-    <b> author={Xu, Qiangeng and Qin, Zengchang and Wan, Tao},
-      
-    <b> booktitle={International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making},
-      
-    <b> pages={284--294},
-      
-    <b> year={2019},
-      
-    <b> organization={Springer}
-      
-    }
   </details>
   
 ## 2017
 
-* #### Dynamic Eye Movement Matching and Visualization Tool in Neuro Gesture  
+* Dynamic Eye Movement Matching and Visualization Tool in Neuro Gesture  
   <b>Qiangeng Xu</b>, John Kender.   
-  arXiv preprint arXiv:1712.09709  
+  <em>arXiv preprint arXiv:1712.09709  </em>
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1712.09709){:target="blank"}\] 
   <details> <summary>bibtex</summary>
         
-    ```
-    @misc{xu2017report,
-        title={Report: Dynamic Eye Movement Matching and Visualization Tool in Neuro Gesture},
-        author={Qiangeng Xu and John Kender},
-        year={2017},
-        eprint={1712.09709},
-        archivePrefix={arXiv},
-        primaryClass={cs.NE}
-    }
-    ```
+        <br />@misc{xu2017report,
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={Report: Dynamic Eye Movement Matching and Visualization Tool in Neuro Gesture},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author={Qiangeng Xu and John Kender},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year={2017},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eprint={1712.09709},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; archivePrefix={arXiv},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; primaryClass={cs.NE}
+        <br />}
   </details>
