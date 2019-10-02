@@ -14,7 +14,7 @@ image:
 * DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction  
 <b>Qiangeng Xu&#10036;</b>, <b>Weiyue Wang&#10036;</b>, Duygu Ceylan, Radomir Mech, Ulrich Neumann    
 <em>Conference on neural information processing systems (NeurIPS) 2019</em>
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](http://www-scf.usc.edu/~weiyuewa/papers/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] \[[<font color="brown">code</font>](https://github.com/Xharlie/DISN){:target="bla.pdfnk"}\]
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](images/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] \[[<font color="brown">code</font>](https://github.com/Xharlie/DISN){:target="bla.pdfnk"}\]
   <details> <summary>bibtex</summary>   
   
       <br />@inProceedings{xu2019disn, 
