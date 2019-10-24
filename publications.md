@@ -14,7 +14,7 @@ image:
 * DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction  
 <b>Qiangeng Xu&#10036;</b>, <b>Weiyue Wang&#10036;</b>, Duygu Ceylan, Radomir Mech, Ulrich Neumann    
 <em>Conference on neural information processing systems (NeurIPS) 2019</em>
-\[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](http://www-scf.usc.edu/~weiyuewa/papers/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] \[[<font color="brown">code</font>](https://github.com/Xharlie/DISN){:target="bla.pdfnk"}\]
+\[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](images/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] \[[<font color="brown">code</font>](https://github.com/Xharlie/DISN){:target="bla.pdfnk"}\]
   <details> <summary>bibtex</summary>   
   
       <br />@inProceedings{xu2019disn, 
@@ -35,7 +35,7 @@ image:
       <br />@inProceedings{xu2020sdvi, 
       <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={Stochastic Dynamics for Video Infilling},
       <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author={Qiangeng Xu, Hanwang Zhang, Weiyue Wang, Peter N. Belhumeur, Ulrich Neumann},
-      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle={WACV2020},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle={Winter Conference on Applications of Computer Vision},
       <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year={2020}
       <br />} 
   </details>
