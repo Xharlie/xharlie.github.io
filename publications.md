@@ -15,7 +15,9 @@ image:
 <b>Qiangeng Xu</b>, Xudong Sun, Cho-ying Wu, Panqu Wang, Ulrich Neumann    
 <em>arxiv</em>
 \[[<font color="brown">paper</font>](https://xharlie.github.io/papers/GGCN.pdf){:target="blank"}\]
-&nbsp;
+<br />
+<br />
+&nbsp; 
 * DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction  
 <b>Qiangeng Xu&#10036;</b>, <b>Weiyue Wang&#10036;</b>, Duygu Ceylan, Radomir Mech, Ulrich Neumann    
 <em>Conference on neural information processing systems (NeurIPS) 2019</em>
