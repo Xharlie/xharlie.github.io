@@ -14,7 +14,7 @@ image:
 * Grid-GCN for Fast and Scalable Point Cloud Learning  
 <b>Qiangeng Xu</b>, Xudong Sun, Cho-ying Wu, Panqu Wang, Ulrich Neumann    
 <em>arxiv</em>
-\[[<font color="brown">paper</font>](https://xharlie.github.io/papers/GGCN.pdf){:target="blank"}\]
+\[[<font color="brown">paper</font>](https://xharlie.github.io/papers/ggcn.pdf){:target="blank"}\]
 <br />
 <br />
 &nbsp; 
