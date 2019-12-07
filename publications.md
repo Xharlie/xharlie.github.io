@@ -15,8 +15,8 @@ image:
 <b>Qiangeng Xu</b>, Xudong Sun, Cho-ying Wu, Panqu Wang, Ulrich Neumann    
 <em>arxiv</em>
 \[[<font color="brown">paper</font>](https://xharlie.github.io/papers/GGCN.pdf){:target="blank"}\]
-<!-- \[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](images/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] \[[<font color="brown">code</font>](https://github.com/Xharlie/DISN){:target="bla.pdfnk"}\] -->
-  <!-- <details> <summary>bibtex</summary>
+<!-- \[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](images/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] \[[<font color="brown">code</font>](https://github.com/Xharlie/DISN){:target="bla.pdfnk"}\]
+  <details> <summary>bibtex</summary>
         
       <br />@misc{xu2019ggcn,
       <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={Grid-GCN for Fast and Scalable Point Cloud Learning},
