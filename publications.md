@@ -43,8 +43,6 @@ image:
       <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {Curran Associates, Inc.},
       <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; url = {http://papers.nips.cc/paper/8340-disn-deep-implicit-surface-network-for-high-quality-single-view-3d-reconstruction.pdf}
       <br />}
-}
-
   </details>
 &nbsp;
 * Stochastic Dynamics for Video Infilling  
