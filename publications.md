@@ -33,12 +33,18 @@ image:
 \[[<font color="brown">paper</font>](https://arxiv.org/abs/1905.10711){:target="blank"}\] \[[<font color="brown">appendix</font>](images/neurips_2019_supp.pdf){:target="bla.pdfnk"}\] \[[<font color="brown">code</font>](https://github.com/Xharlie/DISN){:target="bla.pdfnk"}\]
   <details> <summary>bibtex</summary>   
   
-      <br />@inProceedings{xu2019disn, 
-      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction},
-      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author={Xu, Qiangeng and Wang, Weiyue and Ceylan, Duygu and Mech, Radomir and Neumann, Ulrich},
-      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle={NeurIPS},
-      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year={2019}
+      <br />@incollection{NIPS2019_8340,
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Xu, Qiangeng and Wang, Weiyue and Ceylan, Duygu and Mech, Radomir and Neumann, Ulrich},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {Advances in Neural Information Processing Systems 32},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pages = {492--502},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2019},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {Curran Associates, Inc.},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; url = {http://papers.nips.cc/paper/8340-disn-deep-implicit-surface-network-for-high-quality-single-view-3d-reconstruction.pdf}
       <br />}
+}
+
   </details>
 &nbsp;
 * Stochastic Dynamics for Video Infilling  
