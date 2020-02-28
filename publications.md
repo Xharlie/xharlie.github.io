@@ -9,15 +9,30 @@ image:
 ---
 
 {% include _toc.html %}
-
-## 2019
+@article{xu2019grid,
+  title={Grid-GCN for Fast and Scalable Point Cloud Learning},
+  author={Xu, Qiangeng},
+  journal={arXiv preprint arXiv:1912.02984},
+  year={2019}
+}
+## 2020
 * Grid-GCN for Fast and Scalable Point Cloud Learning  
 <b>Qiangeng Xu</b>, Xudong Sun, Cho-ying Wu, Panqu Wang, Ulrich Neumann    
-<em>arxiv</em>
+<em>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020)</em>
 \[[<font color="brown">paper</font>](https://xharlie.github.io/papers/ggcn.pdf){:target="blank"}\]
+ <details> <summary>bibtex</summary>   
+  
+      <br />@article{xu2019grid,
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={Grid-GCN for Fast and Scalable Point Cloud Learning},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author={Xu, Qiangeng and Sun, Xudong and Wu, Cho-ying and Wang, Panqu and Neumann, Ulrich},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; journal={arXiv preprint arXiv:1912.02984},
+      <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year={2019}
+      <br />}
+</details>
 <br />
 <br />
 &nbsp; 
+## 2019
 * DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction  
 <b>Qiangeng Xu&#10036;</b>, <b>Weiyue Wang&#10036;</b>, Duygu Ceylan, Radomir Mech, Ulrich Neumann    
 <em>Conference on neural information processing systems (NeurIPS) 2019</em>
