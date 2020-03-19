@@ -16,13 +16,14 @@ image:
 <em>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020)</em>
 \[[<font color="brown">paper</font>](https://arxiv.org/pdf/1912.02984.pdf){:target="blank"}\]
     <details> <summary>bibtex</summary>   
-  
-          <br />@article{xu2019grid,
-          <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={Grid-GCN for Fast and Scalable Point Cloud Learning},
-          <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author={Xu, Qiangeng and Sun, Xudong and Wu, Cho-ying and Wang, Panqu and Neumann, Ulrich},
-          <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; journal={arXiv preprint arXiv:1912.02984},
-          <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year={2019}
-          <br />}
+        <br />@article{1912.02984,
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Author = {Qiangeng Xu and Xudong Sun and Cho-Ying Wu and Panqu Wang and Ulrich Neumann},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title = {Grid-GCN for Fast and Scalable Point Cloud Learning},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Year = {2019},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eprint = {arXiv:1912.02984},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Howpublished = {Proceedings of the IEEE Conference on Computer Vision and Pattern
+          Recognition (CVPR 2020)},
+        <br />}
     </details>
 
 ## 2019
