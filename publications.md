@@ -14,7 +14,7 @@ image:
 * Grid-GCN for Fast and Scalable Point Cloud Learning  
 <b>Qiangeng Xu</b>, Xudong Sun, Cho-ying Wu, Panqu Wang, Ulrich Neumann    
 <em>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020)</em>
-\[[<font color="brown">paper</font>](https://arxiv.org/pdf/1912.02984.pdf){:target="blank"}\]
+\[[<font color="brown">paper</font>](https://arxiv.org/pdf/1912.02984.pdf){:target="blank"}\] \[[<font color="brown">code</font>](https://github.com/xharlie/Grid-GCN)]
     <details> <summary>bibtex</summary>   
         <br />@article{1912.02984,
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Author = {Qiangeng Xu and Xudong Sun and Cho-Ying Wu and Panqu Wang and Ulrich Neumann},
