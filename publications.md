@@ -23,7 +23,8 @@ Cho-Ying Wu, Xiaoyan Hu, Michael Happold, Qiangeng Xu, Ulrich Neumann
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2020}
         <br />}
     </details>
-    
+&nbsp;
+
 * Grid-GCN for Fast and Scalable Point Cloud Learning  
 <b>Qiangeng Xu</b>, Xudong Sun, Cho-ying Wu, Panqu Wang, Ulrich Neumann    
 <em>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020)</em>
