@@ -12,7 +12,7 @@ image:
 
 ## 2020
 * Geometry-Aware Instance Segmentation with Disparity Maps  
-Cho-Ying Wu, Xiaoyan Hu, Michael Happold, Qiangeng Xu, Ulrich Neumann
+Cho-Ying Wu, Xiaoyan Hu, Michael Happold, Qiangeng Xu, Ulrich Neumann   
 <em>IEEE Conference on Computer Vision and Pattern Recognition Workshop Scalability in Autonomous Driving (CVPRw 2020)</em>
 \[[<font color="brown">paper</font>](http://www-scf.usc.edu/~choyingw/works/GAIS-Net/WSAD/CVPRW_CameraReady.pdf){:target="blank"}\]
     <details> <summary>bibtex</summary>   
