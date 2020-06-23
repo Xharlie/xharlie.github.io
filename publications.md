@@ -11,6 +11,26 @@ image:
 {% include _toc.html %}
 
 ## 2020
+* Geometry-Aware Instance Segmentation with Disparity Maps  
+Cho-Ying Wu, Xiaoyan Hu, Michael Happold, Qiangeng Xu, Ulrich Neumann
+<em>IEEE Conference on Computer Vision and Pattern Recognition Workshop Scalability in Autonomous Driving (CVPRw 2020)</em>
+\[[<font color="brown">paper</font>](http://www-scf.usc.edu/~choyingw/works/GAIS-Net/WSAD/CVPRW_CameraReady.pdf){:target="blank"}\]
+    <details> <summary>bibtex</summary>   
+        <br />inproceedings{wu2020Cvprw,
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Geometry-Aware Instance Segmentation with Disparity Maps},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Wu, Cho-Ying and Hu, Xiaoyan and Happold, Michael and Xu, Qiangeng and Neumann, Ulrich},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;booktitle={CVPR Workshop on Scability in Autonomous Driving},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2020}
+        <br />}
+    </details>
+    
+@article{wu2020geometry,
+  title={Geometry-Aware Instance Segmentation with Disparity Maps},
+  author={Wu, Cho-Ying and Hu, Xiaoyan and Happold, Michael and Xu, Qiangeng and Neumann, Ulrich},
+  journal={arXiv preprint arXiv:2006.07802},
+  year={2020}
+}
+
 * Grid-GCN for Fast and Scalable Point Cloud Learning  
 <b>Qiangeng Xu</b>, Xudong Sun, Cho-ying Wu, Panqu Wang, Ulrich Neumann    
 <em>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020)</em>
