@@ -41,7 +41,7 @@ I am interested in many different aspects of Computer Vision:
 ## Previous Projects
 
 ### 3D Reconstruction from a Single Image
-High quality single view 3D reconstruction by using SDF and local features. Please refer to our publication
+High quality single view 3D reconstruction by using implicit function and local features. Please refer to our publication
 \[[<font color="brown">project site</font>](https://xharlie.github.io/publications/){:target="blank"}\]
 ![](../images/DISN_teaser.png)
 
