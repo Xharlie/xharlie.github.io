@@ -56,7 +56,7 @@ MAML  |   Initial Result
 ![](../images/meta_learning.png){:width="100%"}   |  ![](../images/rank_chart.png){:width="180%"} 
 
 
-### Core 3D (Funded by IARPA)
+### Core 3D
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The goal of this project is to construct 3D building models from large-scale satellite DEM and point cloud. The point cloud covers several regions of different geographical locations.
 I have: 
 •	Used concepts of principal direction to rectify the building 2D contour after planar RANSAC.
