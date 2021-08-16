@@ -10,6 +10,11 @@ image:
 
 {% include _toc.html %}
 ## 2021
+* Behind the Curtain: Learning Occluded Shapes for 3D Object Detection     
+<b>Qiangeng Xu</b>, Yiqi Zhong, Ulrich Neumann   
+<em>preprint</em> \[[<font color="brown">paper(preparing)</font>](https://xharlie.github.io/papers/BtcDet_main_sup.pdf/){:target="blank"}\] 
+
+
 * SPG: Unsupervised Domain Adaptation for 3D Object Detection via Semantic Point Generation     
 <b>Qiangeng Xu</b>, Yin Zhou, Weiyue Wang, Charles Qi, Dragomir Anguelov    
 <em>International Conference on Computer Vision (ICCV 2021)</em> \[[<font color="brown">paper(preparing)</font>](https://xharlie.github.io/publications/){:target="blank"}\] 
