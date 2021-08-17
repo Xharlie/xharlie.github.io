@@ -19,7 +19,7 @@ image:
 <b>Qiangeng Xu</b>, Yin Zhou, Weiyue Wang, Charles Qi, Dragomir Anguelov    
 <em>International Conference on Computer Vision (ICCV 2021)</em> \[[<font color="brown">paper(+supplemental)</font>](https://arxiv.org/pdf/2108.06709v1.pdf){:target="blank"}\] 
    <details> <summary>bibtex</summary>   
-        <br />@inproceedings{xu2020grid,
+        <br />@inproceedings{xu2021spg},
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Grid-gcn for fast and scalable point cloud learning},
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Xu, Qiangeng and Zhou, Yin and Wang, Weiyue and Qi, Charles R. and Anguelov, Dragomir},
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
