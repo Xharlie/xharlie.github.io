@@ -17,8 +17,15 @@ image:
 
 * SPG: Unsupervised Domain Adaptation for 3D Object Detection via Semantic Point Generation     
 <b>Qiangeng Xu</b>, Yin Zhou, Weiyue Wang, Charles Qi, Dragomir Anguelov    
-<em>International Conference on Computer Vision (ICCV 2021)</em> \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2108.06709v1.pdf){:target="blank"}\] 
-
+<em>International Conference on Computer Vision (ICCV 2021)</em> \[[<font color="brown">paper(+supplemental)</font>](https://arxiv.org/pdf/2108.06709v1.pdf){:target="blank"}\] 
+   <details> <summary>bibtex</summary>   
+        <br />@inproceedings{xu2020grid,
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Grid-gcn for fast and scalable point cloud learning},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Xu, Qiangeng and Zhou, Yin and Wang, Weiyue and Qi, Charles R. and Anguelov, Dragomir},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2021}
+        <br />}
+    </details>
 
 
 ## 2020
@@ -41,15 +48,16 @@ Cho-Ying Wu, Xiaoyan Hu, Michael Happold, Qiangeng Xu, Ulrich Neumann
 <em>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020)</em>
 \[[<font color="brown">paper</font>](https://arxiv.org/pdf/1912.02984.pdf){:target="blank"}\] \[[<font color="brown">supplementary</font>](https://xharlie.github.io/papers/GGCN_supCamReady.pdf){:target="blank"}\] \[[<font color="brown">code</font>](https://github.com/xharlie/Grid-GCN){:target="blank"}\]
     <details> <summary>bibtex</summary>   
-        <br />@article{1912.02984,
-        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Author = {Qiangeng Xu and Xudong Sun and Cho-Ying Wu and Panqu Wang and Ulrich Neumann},
-        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title = {Grid-GCN for Fast and Scalable Point Cloud Learning},
-        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Year = {2019},
-        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eprint = {arXiv:1912.02984},
-        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Howpublished = {Proceedings of the IEEE Conference on Computer Vision and Pattern
-          Recognition (CVPR 2020)},
+        <br />@inproceedings{xu2020grid,
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Grid-gcn for fast and scalable point cloud learning},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Xu, Qiangeng and Sun, Xudong and Wu, Cho-Ying and Wang, Panqu and Neumann, Ulrich},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages={5661--5670},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2020}
         <br />}
     </details>
+
+
 
 ## 2019
 
