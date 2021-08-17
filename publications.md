@@ -17,7 +17,7 @@ image:
 
 * SPG: Unsupervised Domain Adaptation for 3D Object Detection via Semantic Point Generation     
 <b>Qiangeng Xu</b>, Yin Zhou, Weiyue Wang, Charles Qi, Dragomir Anguelov    
-<em>International Conference on Computer Vision (ICCV 2021)</em> \[[<font color="brown">paper(coming soon)</font>](https://xharlie.github.io/publications/){:target="blank"}\] 
+<em>International Conference on Computer Vision (ICCV 2021)</em> \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2108.06709v1.pdf){:target="blank"}\] 
 
 
 
