@@ -27,6 +27,7 @@ image:
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2021}
         <br />}
     </details>
+&nbsp;
   
 * Accurate 3D Facial Geometry Prediction by Multi-Task, Multi-Modal, and Multi-Representation Landmark Refinement Network    
 Cho-Ying Wu, Qiangeng Xu, Ulrich Neumann    
