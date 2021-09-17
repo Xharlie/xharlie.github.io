@@ -28,6 +28,19 @@ image:
         <br />}
     </details>
 
+* Accurate 3D Facial Geometry Prediction by Multi-Task, Multi-Modal, and Multi-Representation Landmark Refinement Network    
+Cho-Ying Wu, Qiangeng Xu, Ulrich Neumann    
+<em>arxiv</em> 
+\[[<font color="brown">paper</font>](https://arxiv.org/pdf/2104.08403.pdf){:target="blank"}\]
+    <details> <summary>bibtex</summary>   
+        <br />@article{wu2021accurate,
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Accurate 3D Facial Geometry Prediction by Multi-Task, Multi-Modal, and Multi-Representation Landmark Refinement Network},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Wu, Cho-Ying and Xu, Qiangeng and Neumann, Ulrich},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal={arXiv preprint arXiv:2104.08403},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2021}
+        <br />}
+    </details>
+    
 
 ## 2020
 * Geometry-Aware Instance Segmentation with Disparity Maps  
