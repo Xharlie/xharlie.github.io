@@ -22,7 +22,6 @@ image:
         <br />}
     </details>
 &nbsp;
-
 * SPG: Unsupervised Domain Adaptation for 3D Object Detection via Semantic Point Generation     
 <b>Qiangeng Xu</b>, Yin Zhou, Weiyue Wang, Charles Qi, Dragomir Anguelov    
 <em>International Conference on Computer Vision (ICCV 2021)</em> 
@@ -35,7 +34,7 @@ image:
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2021}
         <br />}
     </details>
-<!-- &nbsp; -->
+&nbsp;
 * Accurate 3D Facial Geometry Prediction by Multi-Task, Multi-Modal, and Multi-Representation Landmark Refinement Network    
 Cho-Ying Wu, Qiangeng Xu, Ulrich Neumann    
 <em>arxiv</em> 
