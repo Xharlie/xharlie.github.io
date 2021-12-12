@@ -20,8 +20,8 @@ image:
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;booktitle={arXiv preprint arXiv:2112.02205},
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2021}
         <br />}
-    </details>
-&nbsp;
+    </details>  
+    
 
 ## 2021
 * SPG: Unsupervised Domain Adaptation for 3D Object Detection via Semantic Point Generation     
