@@ -9,7 +9,7 @@ image:
 ---
 
 {% include _toc.html %}
-## 2021
+## 2022
 * Behind the Curtain: Learning Occluded Shapes for 3D Object Detection     
 <b>Qiangeng Xu</b>, Yiqi Zhong, Ulrich Neumann   
 <em>Proceedings of the AAAI Conference on Artificial Intelligence 36 (AAAI-2022)</em> \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2112.02205.pdf){:target="blank"}\]  \[[<font color="brown">code</font>](https://github.com/Xharlie/BtcDet){:target="blank"}\]
@@ -22,6 +22,7 @@ image:
         <br />}
     </details>
 &nbsp;
+## 2021
 * SPG: Unsupervised Domain Adaptation for 3D Object Detection via Semantic Point Generation     
 <b>Qiangeng Xu</b>, Yin Zhou, Weiyue Wang, Charles Qi, Dragomir Anguelov    
 <em>International Conference on Computer Vision (ICCV 2021)</em> 
@@ -35,15 +36,15 @@ image:
         <br />}
     </details>
 &nbsp;
-* Accurate 3D Facial Geometry Prediction by Multi-Task, Multi-Modal, and Multi-Representation Landmark Refinement Network    
+* Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry    
 Cho-Ying Wu, Qiangeng Xu, Ulrich Neumann    
-<em>arxiv</em> 
-\[[<font color="brown">paper</font>](https://arxiv.org/pdf/2104.08403.pdf){:target="blank"}\]
+<em>International Conference on 3D Vision 2021 (3DV 2021)</em> 
+\[[<font color="brown">paper</font>](https://arxiv.org/pdf/2110.09772.pdf){:target="blank"}\]
     <details> <summary>bibtex</summary>   
-        <br />@article{wu2021accurate,
-        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Accurate 3D Facial Geometry Prediction by Multi-Task, Multi-Modal, and Multi-Representation Landmark Refinement Network},
+        <br />@article{wu2021synergy,
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry},
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Wu, Cho-Ying and Xu, Qiangeng and Neumann, Ulrich},
-        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal={arXiv preprint arXiv:2104.08403},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal={arXiv preprint arXiv:2110.09772},
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2021}
         <br />}
     </details>
