@@ -12,7 +12,15 @@ image:
 ## 2021
 * Behind the Curtain: Learning Occluded Shapes for 3D Object Detection     
 <b>Qiangeng Xu</b>, Yiqi Zhong, Ulrich Neumann   
-<em>Proceedings of the AAAI Conference on Artificial Intelligence 36 (AAAI-2022)</em> \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2112.02205.pdf){:target="blank"}\] 
+<em>Proceedings of the AAAI Conference on Artificial Intelligence 36 (AAAI-2022)</em> \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2112.02205.pdf){:target="blank"}\]  \[[<font color="brown">code</font>](https://github.com/Xharlie/BtcDet){:target="blank"}\]
+    <details> <summary>bibtex</summary>   
+        <br />@article{xu2021behind,
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Behind the Curtain: Learning Occluded Shapes for 3D Object Detection},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Xu, Qiangeng and Zhong, Yiqi and Neumann, Ulrich},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;booktitle={arXiv preprint arXiv:2112.02205},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2021}
+        <br />}
+    </details>
 &nbsp;
 
 * SPG: Unsupervised Domain Adaptation for 3D Object Detection via Semantic Point Generation     
