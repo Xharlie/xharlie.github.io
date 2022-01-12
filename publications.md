@@ -11,8 +11,9 @@ image:
 {% include _toc.html %}
 ## 2022
 * Point-NeRF: Point-based Neural Radiance Fields    
-<b>Qiangeng Xu</b>, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli,  Ulrich Neumann
-<em>Preprint</em> \[[<font color="brown">paper</font>](https://xharlie.github.io/papers/Point_NeRF.pdf){:target="blank"}\]  \[[<font color="brown">code</font>](https://github.com/Xharlie/Point-NeRF)
+<b>Qiangeng Xu</b>, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli,  Ulrich Neumann  
+<em>Preprint</em> \[[<font color="brown">paper</font>](https://xharlie.github.io/papers/Point_NeRF.pdf){:target="blank"}\]  \[[<font color="brown">project site</font>](../projects/project_sites/pointnerf/index.html){:target="blank"}\]\[[<font color="brown">code</font>](https://github.com/Xharlie/Point-NeRF){:target="blank"}\]
+
 
 &nbsp;
 
