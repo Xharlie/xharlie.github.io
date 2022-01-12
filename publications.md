@@ -10,6 +10,12 @@ image:
 
 {% include _toc.html %}
 ## 2022
+* Point-NeRF: Point-based Neural Radiance Fields    
+<b>Qiangeng Xu</b>, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli,  Ulrich Neumann
+<em>Preprint</em> \[[<font color="brown">paper</font>](https://xharlie.github.io/papers/Point_NeRF.pdf){:target="blank"}\]  \[[<font color="brown">code</font>](https://github.com/Xharlie/Point-NeRF)
+
+&nbsp;
+
 * Behind the Curtain: Learning Occluded Shapes for 3D Object Detection     
 <b>Qiangeng Xu</b>, Yiqi Zhong, Ulrich Neumann   
 <em>Proceedings of the AAAI Conference on Artificial Intelligence 36 (AAAI-2022)</em> \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2112.02205.pdf){:target="blank"}\]  \[[<font color="brown">code</font>](https://github.com/Xharlie/BtcDet){:target="blank"}\]
