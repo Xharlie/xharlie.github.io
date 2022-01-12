@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+          content="MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo">
+    <meta name="author" content="Qiangeng Xu,
+                                Zexiang Xu,
+                                Julien Philip,
+                                Sai Bi,
+								Zhixin Shu,
+                                Kalyan Sunkavalli,
+                                Ulrich Neumann">
+
+    <title>Point-NeRF: Point-based Neural Radiance Fields</title>
+    <!-- Bootstrap core CSS -->
+    <!--link href="bootstrap.min.css" rel="stylesheet"-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="offcanvas.css" rel="stylesheet">
+    <!--    <link rel="icon" href="img/favicon.gif" type="image/gif">-->
+</head>
+
+<body>
+<div class="jumbotron jumbotron-fluid">
+    <div class="container"></div>
+    <h2>Point-NeRF: Point-based Neural Radiance Fields</h2>
+        <!--<h3>ICCV 2021</h3>-->
+           <p class="abstract">A high performance novel neural radiance representation. </p>
+    <hr>
+    <p class="authors">
+        <a href="https://xharlie.github.io/"> Qiangeng Xu</a>,
+        <a href="http://cseweb.ucsd.edu/~zex014/"> Zexiang Xu</a>,
+        <a> Julien Philip</a>,
+        <a> Sai Bi</a>,
+        <a> Zhixin Shu</a> </br>
+        <a>  Kalyan Sunkavalli</a> ,
+        <a>  Ulrich Neumann</a>
+    </p>
+    <div class="btn-group" role="group" aria-label="Top menu">
+        <a class="btn btn-primary" href="https://arxiv.org/abs/2103.15595">Paper</a>
+        <a class="btn btn-primary" href="https://github.com/Xharlie/point-nerf">Code</a>
+    </div>
+</div>
+
+<div class="container">
+    <div class="section">
+        <h2>Abstract</h2>
+        <hr>
+        <p>
+            Volumetric neural rendering methods like NeRF generate high-quality view synthesis results but are optimized per-scene leading to prohibitive reconstruction time. On the other hand, deep multi-view stereo methods can quickly reconstruct scene geometry via direct network inference. Point-NeRF combines the advantages of these two approaches by using neural 3D point clouds, with associated neural features, to model a radiance field. Point-NeRF can be rendered efficiently by aggregating neural point features near scene surfaces, in a ray marching-based rendering pipeline. Moreover, Point-NeRF can be initialized via direct inference of a pre-trained deep network to produce a neural point cloud; this point cloud can be finetuned to surpass the visual quality of NeRF with 30X faster training time. Point-NeRF can be combined with other 3D reconstruction methods and handles the errors and outliers in such methods via a novel pruning and growing mechanism.
+        </p>
+        <div class="row align-items-center">
+            <div class="col justify-content-center text-center">
+                <img src="img/teaser.png" style="width:100%; margin-right:-20px; margin-top:-10px;">
+        </div>
+    </div>
+
+
+    <div class="section">
+        <h2>Pipeline</h2>
+        <hr>
+        <div class="row align-items-center">
+            <div class="col justify-content-center text-center">
+                <img src="img/pipeline.png" style="width:100%; margin-right:-20px; margin-top:-10px;">
+        </div>
+        <p>
+            Overview of Point-NeRF. (a) From multi-view images, our model generates depth for each view by using a cost volume-based 3D CNNs and extract 2D features from the input images by a 2D CNN. After aggregating the depth map, we obtain a point-based radiance field in which each point has a spatial location, a confidence and the unprojected image features. (b) To synthesize a novel view, we conduct differentiable ray marching and compute shading only nearby the neural point cloud (e.g., Xa, Xb, Xc). At each shading location, Point-NeRF aggregates features from its K neural point neighbors and compute radiance and volume density then accumulate radiance using density. The entire process is end-to-end trainable and the point-based radiance field can be optimized with the rendering loss..
+        </p>
+    </div>
+    <hr  style="height:20px; border-top: 2px dashed #095484;">
+
+    <div class="section">
+        <h2>DTU</h2>
+        <hr>
+        <div class=" align-items-center">
+            <div class="col justify-content-center text-center">
+                <img src="img/dtu.png" style="width:100%; margin-right:-20px; margin-top:-10px;">
+        </div><br>
+        <div style="  display: flex; justify-content: center;" >
+            <video width="640" height="360" controls>
+                <source src="vid/dtu.mp4" type="video/mp4"  >
+            </video>
+        </div>
+        <p>
+            <!--We train our MVSNeRF with scenes of objects in the DTU dataset. Our network can effectively <b>generalize</b> across diverse scenes; even for a complex indoor scene, our network can reconstruct a neural radiance field from only three input images (a) and synthesize a realistic image from a novel viewpoint (b). While this result contains artifacts, it can be largely improved by fine-tuning our reconstruction on more images for only <b>6 min</b> (c), which achieves better quality than the NeRF's nerf result (d) from 9.5h per-scene optimization. -->
+        </p>
+    </div>
+    <hr  style="height:20px; border-top: 2px dashed #095484;">
+
+    <div class="section">
+        <h2>NeRF Synthetic</h2>
+        <hr>
+        <div class=" align-items-center">
+            <div class="col justify-content-center text-center">
+                <img src="img/nerfsynth.png" style="width:100%; margin-right:-20px; margin-top:-10px;">
+        </div><br>
+        <div style="  display: flex; justify-content: center;" >
+            <video width="512" height="288" controls>
+                <source src="vid/nerfSynth.mp4" type="video/mp4"  >
+            </video>
+            &nbsp &nbsp
+            <video width="512" height="288" controls>
+                <source src="vid/nerfearly.mp4" type="video/mp4"  >
+            </video>
+        </div>
+        <p>
+            <!--We train our MVSNeRF with scenes of objects in the DTU dataset. Our network can effectively <b>generalize</b> across diverse scenes; even for a complex indoor scene, our network can reconstruct a neural radiance field from only three input images (a) and synthesize a realistic image from a novel viewpoint (b). While this result contains artifacts, it can be largely improved by fine-tuning our reconstruction on more images for only <b>6 min</b> (c), which achieves better quality than the NeRF's nerf result (d) from 9.5h per-scene optimization. -->
+        </p>
+    </div>
+    <hr  style="height:20px; border-top: 2px dashed #095484;">
+
+
+    <div class="section">
+        <h2>ScanNet</h2>
+        <hr>
+        <div style="  display: flex; justify-content: center;" >
+            <video width="510" height="400" controls>
+                <source src="vid/scene101.mov"  >
+            </video>
+            &nbsp &nbsp
+            <video width="510" height="400" controls>
+                <source src="vid/scene241.mov"  >
+            </video>
+        </div>
+        <p>
+            <!--We train our MVSNeRF with scenes of objects in the DTU dataset. Our network can effectively <b>generalize</b> across diverse scenes; even for a complex indoor scene, our network can reconstruct a neural radiance field from only three input images (a) and synthesize a realistic image from a novel viewpoint (b). While this result contains artifacts, it can be largely improved by fine-tuning our reconstruction on more images for only <b>6 min</b> (c), which achieves better quality than the NeRF's nerf result (d) from 9.5h per-scene optimization. -->
+        </p>
+    </div>
+    <hr  style="height:20px; border-top: 2px dashed #095484;">
+
+
+    <div class="section">
+        <h2>Tanks and Temples</h2>
+        <hr>
+        <div style="  display: flex; justify-content: center;" >
+            <video width="544" height="320" controls>
+                <source src="vid/family.mov"  >
+            </video>
+            &nbsp &nbsp
+            <video width="544" height="320" controls>
+                <source src="vid/cate.mov"  >
+            </video>
+        </div>
+        <div style="  display: flex; justify-content: center;" >
+            <video width="544" height="320" controls>
+                <source src="vid/truck.mov"  >
+            </video>
+        </div>
+        <p>
+            <!--We train our MVSNeRF with scenes of objects in the DTU dataset. Our network can effectively <b>generalize</b> across diverse scenes; even for a complex indoor scene, our network can reconstruct a neural radiance field from only three input images (a) and synthesize a realistic image from a novel viewpoint (b). While this result contains artifacts, it can be largely improved by fine-tuning our reconstruction on more images for only <b>6 min</b> (c), which achieves better quality than the NeRF's nerf result (d) from 9.5h per-scene optimization. -->
+        </p>
+    </div>
+    <hr  style="height:20px; border-top: 2px dashed #095484;">
+
+
+    <div class="section">
+        <h2>Paper</h2>
+        <hr>
+        <div>
+            <div class="list-group">
+                <a href="https://arxiv.org/abs/2103.15595"
+                   class="list-group-item">
+                    <img src="img/Point_NeRF_img/page-0.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                    <img src="img/Point_NeRF_img/page-1.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                    <img src="img/Point_NeRF_img/page-2.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                    <img src="img/Point_NeRF_img/page-3.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                    <img src="img/Point_NeRF_img/page-4.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                    <img src="img/Point_NeRF_img/page-5.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                    <img src="img/Point_NeRF_img/page-6.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                    <img src="img/Point_NeRF_img/page-7.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                    <img src="img/Point_NeRF_img/page-8.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                    <img src="img/Point_NeRF_img/page-9.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                    <img src="img/Point_NeRF_img/page-10.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                    <img src="img/Point_NeRF_img/page-11.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                    <img src="img/Point_NeRF_img/page-12.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                    <img src="img/Point_NeRF_img/page-13.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                    <img src="img/Point_NeRF_img/page-14.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                    <img src="img/Point_NeRF_img/page-15.png" style="width:100px; margin-right:-20px; margin-top:-10px;">
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!--<div class="section">-->
+        <!--<h2>Bibtex</h2>-->
+        <!--<hr>-->
+        <!--<div class="bibtexsection">-->
+            <!--@misc{chen2021mvsnerf,-->
+                  <!--title={MVSNeRF: Fast Generalizable Radiance Field Reconstruction -->
+                        <!--from Multi-View Stereo}, -->
+                  <!--author={Anpei Chen and Zexiang Xu and Fuqiang Zhao and Xiaoshuai Zhang -->
+                          <!--and Fanbo Xiang and Jingyi Yu and Hao Su},-->
+                  <!--year={2021},-->
+                  <!--eprint={2103.15595},-->
+                  <!--archivePrefix={arXiv},-->
+                  <!--primaryClass={cs.CV}-->
+            <!--}-->
+        <!--</div>-->
+    <!--</div>-->
+
+    <hr>
+
+    <footer>
+        <p>Send feedback and questions to <a href="https://xharlie.github.io/">Qiangeng Xu</a></p>
+    </footer>
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+        crossorigin="anonymous"></script>
+
+</body>
+</html>
