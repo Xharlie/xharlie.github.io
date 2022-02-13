@@ -12,15 +12,13 @@ image:
 ## 2022
 * Point-NeRF: Point-based Neural Radiance Fields    
 <b>Qiangeng Xu</b>, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli, Ulrich Neumann  
-<em>Preprint</em> \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2201.08845.pdf){:target="blank"}\]  \[[<font color="brown">project site</font>](../projects/project_sites/pointnerf/index.html){:target="blank"}\]\[[<font color="brown">code</font>](https://github.com/Xharlie/Point-NeRF){:target="blank"}\]
+<em>Preprint</em> \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2201.08845.pdf){:target="blank"}\]  \[[<font color="brown">project site</font>](../projects/project_sites/pointnerf/index.html){:target="blank"}\]\[[<font color="brown">code</font>](https://github.com/Xharlie/pointnerf){:target="blank"}\]
     <details> <summary>bibtex</summary>   
-        <br />@misc{xu2022pointnerf,
+        <br />@article{xu2022point,
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Point-NeRF: Point-based Neural Radiance Fields},
-        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Qiangeng Xu and Zexiang Xu and Julien Philip and Sai Bi and Zhixin Shu and Kalyan Sunkavalli and Ulrich Neumann},
-        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2022},
-        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eprint={2201.08845},
-        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},
-        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CV},
+         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Xu, Qiangeng and Xu, Zexiang and Philip, Julien and Bi, Sai and Shu, Zhixin and Sunkavalli, Kalyan and Neumann, Ulrich},
+         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal={arXiv preprint arXiv:2201.08845},
+         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2022}
         <br />}
     </details>  
 &nbsp;
