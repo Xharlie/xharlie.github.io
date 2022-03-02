@@ -12,7 +12,7 @@ image:
 ## 2022
 * Point-NeRF: Point-based Neural Radiance Fields    
 <b>Qiangeng Xu</b>, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli, Ulrich Neumann  
-<em>Preprint</em> \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2201.08845.pdf){:target="blank"}\]  \[[<font color="brown">project site</font>](../projects/project_sites/pointnerf/index.html){:target="blank"}\]\[[<font color="brown">code</font>](https://github.com/Xharlie/pointnerf){:target="blank"}\]
+<em>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022) </em> \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2201.08845.pdf){:target="blank"}\]  \[[<font color="brown">project site</font>](../projects/project_sites/pointnerf/index.html){:target="blank"}\]\[[<font color="brown">code</font>](https://github.com/Xharlie/pointnerf){:target="blank"}\]
     <details> <summary>bibtex</summary>   
         <br />@article{xu2022point,
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Point-NeRF: Point-based Neural Radiance Fields},
@@ -30,7 +30,8 @@ image:
         <br />@article{xu2021behind,
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Behind the Curtain: Learning Occluded Shapes for 3D Object Detection},
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Xu, Qiangeng and Zhong, Yiqi and Neumann, Ulrich},
-        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;booktitle={arXiv preprint arXiv:2112.02205},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;booktitle={arXiv 
+    int arXiv:2112.02205},
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2021}
         <br />}
     </details>  
