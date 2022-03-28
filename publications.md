@@ -12,7 +12,7 @@ image:
 ## 2022
 * Point-NeRF: Point-based Neural Radiance Fields    
 <b>Qiangeng Xu</b>, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli, Ulrich Neumann  
-<em>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022 Oral 🤩🤯🔥)) </em> \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2201.08845.pdf){:target="blank"}\]  \[[<font color="brown">project site</font>](../projects/project_sites/pointnerf/index.html){:target="blank"}\]\[[<font color="brown">code</font>](https://github.com/Xharlie/pointnerf){:target="blank"}\]
+<em>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition </em> (CVPR 2022 Oral 🤩🤯🔥) \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2201.08845.pdf){:target="blank"}\]  \[[<font color="brown">project site</font>](../projects/project_sites/pointnerf/index.html){:target="blank"}\]\[[<font color="brown">code</font>](https://github.com/Xharlie/pointnerf){:target="blank"}\]
     <details> <summary>bibtex</summary>   
         <br />@article{xu2022point,
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Point-NeRF: Point-based Neural Radiance Fields},
