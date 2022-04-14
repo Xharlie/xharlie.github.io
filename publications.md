@@ -165,3 +165,7 @@ Cho-Ying Wu, Xiaoyan Hu, Michael Happold, Qiangeng Xu, Ulrich Neumann
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; primaryClass={cs.NE}
         <br />}
   </details>
+
+# Talk and Tutorials:
+
+* Reverse Rendering for 3D Scene Reconstruction {:target="blank"}\]\[[<font color="brown">Slides</font>](https://docs.google.com/presentation/d/1TleO7_EiR6-m2dce33bpD6OuD3wHvXDP/edit?usp=sharing&ouid=104862387759085719623&rtpof=true&sd=true){:target="blank"}\] :target="blank"}\]\[[<font color="brown">pdf</font>](https://xharlie.github.io/images/580_3DSceneRecon_lecture.pdf){:target="blank"}\] As guest lecture of a graduate level course CSCI 580 Computer Graphics at University of Southern California. 
