@@ -48,6 +48,7 @@ I have been a teaching assistant in the following courses:
 
 <div id="columns">
     <div class="date column">
+        <b><br>2020-2022
         <b><br>Jan-May 2019
         <br><br><br><br><br>Jan-May 2017
         <br><br><br><br><br>Sep-Dec 2017
@@ -55,6 +56,7 @@ I have been a teaching assistant in the following courses:
         </b>
     </div>
     <div class="description column">
+        <br><b><a href="https://bytes.usc.edu/cs585/s22_d_ay_tah/home/index.html" target="_blank"><font color="brown">CSCI 585 Database System</font></a></b> (USC)
         <br><b><a href="http://http://www-scf.usc.edu/~csci570/" target="_blank"><font color="brown">CSCI 570 Analysis of Algorithms</font></a></b> (USC)
         
         <br><br><br><b><a href="http://www.cs.columbia.edu/~jrk/csw4735/public_html/info.html" target="_blank"><font color="brown">COMS 4735 Visual Interfaces to Computers</font></a></b> (Columbia University)
