@@ -14,10 +14,11 @@ image:
 <b>Qiangeng Xu</b>, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli, Ulrich Neumann  
 <em>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition </em> (CVPR 2022 Oral 🤩🤯🔥) \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2201.08845.pdf){:target="blank"}\]  \[[<font color="brown">project site</font>](../projects/project_sites/pointnerf/index.html){:target="blank"}\]\[[<font color="brown">code</font>](https://github.com/Xharlie/pointnerf){:target="blank"}\]
     <details> <summary>bibtex</summary>   
-        <br />@article{xu2022point,
+        <br />@inproceedings{xu2022point,
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Point-NeRF: Point-based Neural Radiance Fields},
          <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Xu, Qiangeng and Xu, Zexiang and Philip, Julien and Bi, Sai and Shu, Zhixin and Sunkavalli, Kalyan and Neumann, Ulrich},
-         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal={arXiv preprint arXiv:2201.08845},
+         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages={5438--5448},
          <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2022}
         <br />}
     </details>  
