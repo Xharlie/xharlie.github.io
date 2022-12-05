@@ -55,7 +55,7 @@ MAML  |   Initial Result
 :-------------------------:|:-------------------------:
 ![](../images/meta_learning.png){:width="100%"}   |  ![](../images/rank_chart.png){:width="180%"} 
 
-
+<!-- 
 ### Core 3D
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The goal of this project is to construct 3D building models from large-scale satellite DEM and point cloud. The point cloud covers several regions of different geographical locations.
 I have: 
@@ -65,7 +65,7 @@ I have:
 
 Motivaton  |   single building result           
 :-------------------------:|:-------------------------:
-![](../images/core_3d_motivation.jpg){:width="80%"}   |  ![](../images/core_3d_yazu.png){:width="180%"} 
+![](../images/core_3d_motivation.jpg){:width="80%"}   |  ![](../images/core_3d_yazu.png){:width="180%"}  -->
 
 <br>
 
