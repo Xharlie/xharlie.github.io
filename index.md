@@ -13,3 +13,4 @@ My research interests and experiences range from Digital Human, 3D scene underst
 <br />
 Previously I got my B.E. in Aeronautics Engineering from Beihang University(BUAA) and M.S. in Computer Science from Columbia University. During my study in Columbia, I had great honor to work with Professor <a href="https://www.peterbelhumeur.com/" target="_blank"><font color="brown">Peter Belhumeur</font></a>, <a href="https://www.ee.columbia.edu/~sfchang/" target="_blank"><font color="brown">Shih-fu Chang</font></a> and <a href="http://www.cs.columbia.edu/~jrk/" target="_blank"><font color="brown">John Kender</font></a>. 
 
+Feel free to reach out to me: charlie dot learning at yahoo dot com
