@@ -9,6 +9,20 @@ image:
 ---
 
 {% include _toc.html %}
+## 2023
+* Strivec: Sparse Tri-Vector Radiance Fields    
+<b>Qiangeng Xu&#10036;</b>, <b>Quankai Gao&#10036;</b>, Hao Su, Ulrich Neumann, Zexiang Xu
+<em>International Conference on Computer Vision (ICCV 2021)</em>  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2307.13226.pdf){:target="blank"}\] \[[<font color="brown">code</font>](https://github.com/Zerg-Overmind/Strivec){:target="blank"}\]
+    <details> <summary>bibtex</summary>   
+        <br />@inproceedings{xu2023strivec,
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Sparse Tri-Vector Radiance Fields},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Xu, Qiangeng and Gao, Quankai and Su, Hao and Neumann, Ulrich and Xu, Zexiang},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+        <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2023}
+        <br />}
+    </details>
+&nbsp;
+    
 ## 2022
 * Point-NeRF: Point-based Neural Radiance Fields    
 <b>Qiangeng Xu</b>, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli, Ulrich Neumann  
