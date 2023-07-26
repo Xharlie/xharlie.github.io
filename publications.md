@@ -12,7 +12,7 @@ image:
 ## 2023
 * Strivec: Sparse Tri-Vector Radiance Fields    
 <b>Qiangeng Xu&#10036;</b>, <b>Quankai Gao&#10036;</b>, Hao Su, Ulrich Neumann, Zexiang Xu
-<em>International Conference on Computer Vision (ICCV 2021)</em>  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2307.13226.pdf){:target="blank"}\] \[[<font color="brown">code</font>](https://github.com/Zerg-Overmind/Strivec){:target="blank"}\]
+<em>International Conference on Computer Vision (ICCV 2023)</em>  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2307.13226.pdf){:target="blank"}\] \[[<font color="brown">code</font>](https://github.com/Zerg-Overmind/Strivec){:target="blank"}\]
     <details> <summary>bibtex</summary>   
         <br />@inproceedings{xu2023strivec,
         <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Sparse Tri-Vector Radiance Fields},
