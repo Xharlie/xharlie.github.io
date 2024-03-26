@@ -23,7 +23,7 @@ Zhen Wang, <b>Qiangeng Xu</b>, Feitong Tan, Menglei Chai, Liu Shichen, Rohit Pan
 &nbsp;
 
 * Gaussian3Diff: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing    
-Yushi Lan, Feitong Tan, <b>Qiangeng Xu</b>, Kyle Genova, Zeng Huang, Sean Fanello, Rohit Pandey, Thomas Funkhouser, Loy Change Chen and Yinda Zhang    
+Yushi Lan, Feitong Tan, Di Qiu, <b>Qiangeng Xu</b>, Kyle Genova, Zeng Huang, Sean Fanello, Rohit Pandey, Thomas Funkhouser, Loy Change Chen and Yinda Zhang    
 <em>Preprint</em>  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2312.03763.pdf){:target="blank"}\] \[[<font color="brown">project site</font>](https://nirvanalan.github.io/projects/gaussian3diff/){:target="blank"}\]
 &nbsp;
 
