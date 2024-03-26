@@ -10,20 +10,14 @@ image:
 
 {% include _toc.html %}
 
-@article{lan2023gaussian3diff,
-  title={Gaussian3Diff: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing},
-  author={Lan, Yushi and Tan, Feitong and Qiu, Di and Xu, Qiangeng and Genova, Kyle and Huang, Zeng and Fanello, Sean and Pandey, Rohit and Funkhouser, Thomas and Loy Change Chen and Yinda Zhang},
-  journal={arXiv preprint arXiv:2312.03763},
-  year={2023}
-}
 
 ## 2024
-* GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation
+* GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation 
 Quankai Gao, <b>Qiangeng Xu</b>, Zhe Cao, Ben Mildenhall, Wenchao Ma, Le Chen, Danhang Tang, Ulrich Neumann
 <em>arxiv</em>  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2403.12365.pdf){:target="blank"}\]{:target="blank"}\]
 &nbsp;
 
-* MVDD: Multi-View Depth Diffusion Models
+* MVDD: Multi-View Depth Diffusion Models 
 Zhen Wang, <b>Qiangeng Xu</b>, Feitong Tan, Menglei Chai, Liu Shichen, Rohit Pandey, Sean Fanello, Achuta Kadambi, Yinda Zhang
 <em>arxiv</em>  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2312.04875.pdf){:target="blank"}\]{:target="blank"}\]
 &nbsp;
