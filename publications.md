@@ -28,7 +28,7 @@ Yushi Lan, Feitong Tan, Di Qiu, <b>Qiangeng Xu</b>, Kyle Genova, Zeng Huang, Sea
 &nbsp;
 
 * MagicMirror: Fast and High-Quality Avatar Generation with a Constrained Search Space    
-Armand Comas-Massagué, Di Qiu, Menglei Chai, Marcel Bühler, Amit Raj, Ruiqi Gao, Qiangeng Xu, Mark Matthews, Paulo Gotardo, Octavia Camps, Sergio Orts-Escolano, Thabo Beeler    
+Armand Comas-Massagué, Di Qiu, Menglei Chai, Marcel Bühler, Amit Raj, Ruiqi Gao, <b>Qiangeng Xu</b>, Mark Matthews, Paulo Gotardo, Octavia Camps, Sergio Orts-Escolano, Thabo Beeler    
 <em>Preprint</em>  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2404.01296.pdf){:target="blank"}\] \[[<font color="brown">project site</font>](https://syntec-research.github.io/MagicMirror){:target="blank"}\]
 &nbsp;
 
