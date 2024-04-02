@@ -27,6 +27,11 @@ Yushi Lan, Feitong Tan, Di Qiu, <b>Qiangeng Xu</b>, Kyle Genova, Zeng Huang, Sea
 <em>Preprint</em>  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2312.03763.pdf){:target="blank"}\] \[[<font color="brown">project site</font>](https://nirvanalan.github.io/projects/gaussian3diff/){:target="blank"}\]
 &nbsp;
 
+* MagicMirror: Fast and High-Quality Avatar Generation with a Constrained Search Space    
+Armand Comas-Massagué, Di Qiu, Menglei Chai, Marcel Bühler, Amit Raj, Ruiqi Gao, Qiangeng Xu, Mark Matthews, Paulo Gotardo, Octavia Camps, Sergio Orts-Escolano, Thabo Beeler    
+<em>Preprint</em>  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2404.01296.pdf){:target="blank"}\] \[[<font color="brown">project site</font>](https://syntec-research.github.io/MagicMirror){:target="blank"}\]
+&nbsp;
+
 ## 2023
 * Strivec: Sparse Tri-Vector Radiance Fields    
 <b>Qiangeng Xu&#10036;</b>, <b>Quankai Gao&#10036;</b>, Hao Su, Ulrich Neumann, Zexiang Xu
