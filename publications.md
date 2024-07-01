@@ -19,17 +19,17 @@ Quankai Gao, <b>Qiangeng Xu</b>, Zhe Cao, Ben Mildenhall, Wenchao Ma, Le Chen, D
 
 * MVDD: Multi-View Depth Diffusion Models    
 Zhen Wang, <b>Qiangeng Xu</b>, Feitong Tan, Menglei Chai, Liu Shichen, Rohit Pandey, Sean Fanello, Achuta Kadambi, Yinda Zhang    
-<em>Preprint</em>  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2312.04875.pdf){:target="blank"}\] \[[<font color="brown">project site</font>](https://mvdepth.github.io/){:target="blank"}\]
+<em>European Conference on Computer Vision (ECCV 2024)</em>  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2312.04875.pdf){:target="blank"}\] \[[<font color="brown">project site</font>](https://mvdepth.github.io/){:target="blank"}\]
 &nbsp;
 
 * Gaussian3Diff: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing    
 Yushi Lan, Feitong Tan, Di Qiu, <b>Qiangeng Xu</b>, Kyle Genova, Zeng Huang, Sean Fanello, Rohit Pandey, Thomas Funkhouser, Chen Change Loy, Yinda Zhang    
-<em>Preprint</em>  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2312.03763.pdf){:target="blank"}\] \[[<font color="brown">project site</font>](https://nirvanalan.github.io/projects/gaussian3diff/){:target="blank"}\]
+<em>European Conference on Computer Vision (ECCV 2024)</em>  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2312.03763.pdf){:target="blank"}\] \[[<font color="brown">project site</font>](https://nirvanalan.github.io/projects/gaussian3diff/){:target="blank"}\]
 &nbsp;
 
 * MagicMirror: Fast and High-Quality Avatar Generation with a Constrained Search Space    
 Armand Comas-Massagué, Di Qiu, Menglei Chai, Marcel Bühler, Amit Raj, Ruiqi Gao, <b>Qiangeng Xu</b>, Mark Matthews, Paulo Gotardo, Octavia Camps, Sergio Orts-Escolano, Thabo Beeler    
-<em>Preprint</em>  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2404.01296.pdf){:target="blank"}\] \[[<font color="brown">project site</font>](https://syntec-research.github.io/MagicMirror){:target="blank"}\]
+<em>European Conference on Computer Vision (ECCV 2024)</em>  \[[<font color="brown">paper</font>](https://arxiv.org/pdf/2404.01296.pdf){:target="blank"}\] \[[<font color="brown">project site</font>](https://syntec-research.github.io/MagicMirror){:target="blank"}\]
 &nbsp;
 
 ## 2023
