@@ -7,7 +7,7 @@ image:
   feature:
 ---
 
-I am Qiangeng(Charlie) Xu, a researcher at Waymo Research. Perviously, I obtained my PhD degree (2018 - 2022) from the <a href="https://www.cs.usc.edu/" target="_blank"><font color="brown">Computer Science Department</font></a> of USC, supervised by Professor <a href="https://sites.usc.edu/cgit/contact/ulrich-neumann/" target="_blank"><font color="brown">Ulrich Neumann</font></a>. 
+I am Qiangeng(Charlie) Xu, a Research Scientist at Waymo Research. Perviously, I obtained my PhD degree from the <a href="https://www.cs.usc.edu/" target="_blank"><font color="brown">Computer Science Department</font></a> of USC, supervised by Professor <a href="https://sites.usc.edu/cgit/contact/ulrich-neumann/" target="_blank"><font color="brown">Ulrich Neumann</font></a>. 
 
 My research interests and experiences range from Large-scale Vision-Language Models, End-to-End Robotic Agent, Diffusion Models, Video Generation, Neural Rendering, and Scene Understanding. I also like to explore information bottle neck theory and novel learning schemes.  
 <br />
